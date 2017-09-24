@@ -1,6 +1,6 @@
 
 
-<ul class="nav {{ site.data.Main_navigation.page}}">
+<ul class="nav {{include.page}}">
 	{% for item in site.data.Main_navigation %}
 		{% if item.page == {{include.page}} %}
 			<li class="item {{item.page}}">

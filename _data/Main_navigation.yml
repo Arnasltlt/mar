@@ -36,30 +36,34 @@
   image: img/6.jpg
   link: {{custom.html}}
 
-# Materials
+  #Furniture
 
-- name: lempa
+- name: Reclaimed Oak Desk
+  URL: Furniture.html
   page: Furniture
-  image: img/f.jpg
+  image: img/2.jpg
 
-- name: traktorius
+- name: Jusu uzsakymas
+  URL: Furniture.html
   page: Furniture
-  image: img/f.jpg
+  image: img/1.jpg
 
-- name: durnelis
-  page: Furniture
-  image: img/f.jpg
 
-- name: telefonas
-  page: Furniture
-  image: img/f.jpg
-
-- name: opa
-  page: Furniture
-  image: img/f.jpg
 
 
 # Collaborations
 
-- name: penki
-  page: 
+- name: KTU Bench
+  page: Collaborations
+  URL: Collaborations.html
+  image: img/ktu.jpg
+  link: {{custom.html}}
+
+
+- name: 4,9 desk
+  page: Collaborations
+  URL: Collaborations.html
+  image: img/4.9.jpg
+  link: {{custom.html}}
+
+

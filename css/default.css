@@ -4,3 +4,5 @@
 	{% include common.css %}
 	{% include nav.css %}
 	{% include info.css %}
+	{% include Collaborations.css %}
+	{% include Furniture.css %}

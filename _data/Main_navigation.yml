@@ -1,0 +1,65 @@
+# HOME PAGE
+
+- name: Custom made
+  page: homepage
+  URL: Custom.html
+  image: img/1.jpg
+  link: {{custom.html}}
+
+- name: Materials
+  page: homepage
+  URL: Materials.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Designing
+  page: homepage
+  URL: Designing.html
+  image: img/3.jpg
+  link: {{custom.html}}
+
+- name: Furniture
+  page: homepage
+  URL: Furniture.html
+  image: img/4.jpg
+  link: {{custom.html}}
+
+- name: Collaborations
+  page: homepage
+  URL: Collaborations.html
+  image: img/5.jpg
+  link: {{custom.html}}
+
+- name: info/contact
+  URL: info.html
+  page: homepage
+  image: img/6.jpg
+  link: {{custom.html}}
+
+# Materials
+
+- name: lempa
+  page: Furniture
+  image: img/f.jpg
+
+- name: traktorius
+  page: Furniture
+  image: img/f.jpg
+
+- name: durnelis
+  page: Furniture
+  image: img/f.jpg
+
+- name: telefonas
+  page: Furniture
+  image: img/f.jpg
+
+- name: opa
+  page: Furniture
+  image: img/f.jpg
+
+
+# Collaborations
+
+- name: penki
+  page: 

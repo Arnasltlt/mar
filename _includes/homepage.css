@@ -5,10 +5,10 @@ body{
 title {
 	
 } /*Copinti sita i kiekvieno page css*/
-.Marius {
+/*.Marius {
 	position: absolute;
 	top: 2%;
-	right: 43%;
+	right: 43%;*/
 } /*........*/
 
 
@@ -27,7 +27,7 @@ title {
 		color: black;
 		
 	}
-	.social {
+/*	.social {
 		grid-column: 10;
 		display: grid;
 		grid-template-columns: repeat(2,1fr);
@@ -45,7 +45,7 @@ title {
 
 		#i {
 			
-			}
+			}*/
 
 	.custom_made {
 		grid-column: 4;

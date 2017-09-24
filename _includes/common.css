@@ -1,0 +1,23 @@
+/*body {
+	font-family: 'Proxima Nova', Georgia, sans-serif;
+}
+*/
+
+.Marius {
+	position: absolute;
+	top: 2%;
+	right: 43%;
+
+}
+
+.social{
+	position: absolute;
+	top: 4%;
+	right:5%;
+	display: flex;
+	margin: 10px;
+	margin-right: 15%;
+}
+	.f {
+
+	}

@@ -1,8 +1,12 @@
 
 
-<div>
-	<form>
-		<input type="text" name="SAY SOMETHING!">
-	</form>
-
-</div>
+<ul class="nav {{ site.data.Main_navigation.page}}">
+	{% for item in site.data.Main_navigation %}
+		{% if item.page == {{include.page}} %}
+			<li class="item {{item.page}}">
+				<a href="{{site.baseurl}}/{{item.URL}}"><img class="img {{item.page}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
+				{{item.name}} 
+			</li>
+		{% endif %}	
+	{% endfor %}
+</ul>

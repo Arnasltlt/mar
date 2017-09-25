@@ -5,5 +5,5 @@
 	{% include nav.css %}
 	{% include info.css %}
 	{% include Collaborations.css %}
-	{% include Furniture.css %}
+	{% include furniture.css %}
 	{% include design.css %}

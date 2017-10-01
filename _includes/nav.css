@@ -5,6 +5,7 @@
 	grid-gap: 10px;
 	margin-top: 10%;
 	margin-left: 25%;
+/*	grid-template-columns: repeat(auto-fit, minmax(1px, 200px));*/
 }
 
 li {

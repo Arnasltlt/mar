@@ -7,3 +7,4 @@
 	{% include Collaborations.css %}
 	{% include furniture.css %}
 	{% include design.css %}
+	{% include materials.css %}

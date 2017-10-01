@@ -1,10 +1,10 @@
 .nav {
 	display: grid;
-	grid-template-rows: repeat(5, 1fr);
+	grid-template-rows: repeat(6, 1fr);
 	grid-template-columns: repeat(10, 1fr);
 	grid-gap: 10px;
 	margin-top: 10%;
-	margin-left: 30%;
+	margin-left: 25%;
 }
 
 li {

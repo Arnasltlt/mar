@@ -1,0 +1,68 @@
+body{
+	color: blue;
+	
+}
+
+
+
+
+.meniu {
+	display: grid;
+	grid-template-columns: repeat(11, 1fr);
+	grid-template-rows: repeat(5 ,1fr);
+	margin-right: 10%;
+	margin-left:10%;
+	grid-column-gap: 59px;
+
+}
+
+	.item {
+		grid-row: 3;
+		color: black;
+		
+	}
+/*	.social {
+		grid-column: 10;
+		display: grid;
+		grid-template-columns: repeat(2,1fr);
+		grid-row: 1;
+}		
+		.icons {
+			display: flex;
+			vertical-align: center;
+			justify-content: right;
+			margin-top: 40px;
+		}
+		#f {
+			margin-left: 60px;
+			}
+
+		#i {
+			
+			}*/
+
+	.custom_made {
+		grid-column: 4;
+	}
+	.materials {
+		grid-column: 5;
+	}
+	.designing {
+		grid-column: 6;
+	}
+	.furniture {
+		grid-column: 7;
+	}
+	.collaborations {
+		grid-column: 8;
+	}
+	.bam {
+		grid-column: 9;
+	}
+		.names {
+			margin-top: 10px;
+			font-family: 'Proxima Nova', Georgia, sans-serif;
+			display: flex;
+			justify-content: center;
+		}
+

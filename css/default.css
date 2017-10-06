@@ -1,6 +1,8 @@
 ---
 ---
 
+
+
 	{% include common.css %}
 	{% include nav.css %}
 	{% include info.css %}
@@ -8,3 +10,12 @@
 	{% include furniture.css %}
 	{% include design.css %}
 	{% include materials.css %}
+
+@media screen and (max-width: 800px) {
+	{% include mobile/materials.css %}	
+	{% include mobile/common.css %}
+	{% include mobile/info.css %}
+	{% include mobile/Collaborations.css %}
+	{% include mobile/furniture.css %}
+	{% include mobile/design.css %}
+}

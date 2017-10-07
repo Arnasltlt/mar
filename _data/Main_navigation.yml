@@ -80,7 +80,7 @@
 - name: Old wood No.01
   page: Materials
   URL: Materials.html
-  image: img/2.jpg
+  image: img/3.jpg
   link: {{custom.html}}
   id: one
 

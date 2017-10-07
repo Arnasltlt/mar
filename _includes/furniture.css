@@ -1,4 +1,4 @@
-
+/*
 .visas {
 	display: grid;
 	grid-template-columns: repeat(5, 1fr);
@@ -29,6 +29,9 @@ form {
 .nav .Furniture {
 	width: 200px;
 	height: 200px;
-	margin-top: -3px;
+	padding: 10px;
 }
 
+
+
+*/

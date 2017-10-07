@@ -11,7 +11,7 @@
 	{% include design.css %}
 	{% include materials.css %}
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 480px) {
 	{% include mobile/materials.css %}	
 	{% include mobile/common.css %}
 	{% include mobile/info.css %}

@@ -1,11 +1,11 @@
-.nav {
+/*.nav {
 	display: grid;
 	grid-template-rows: repeat(6, 1fr);
 	grid-template-columns: repeat(10, 1fr);
 	grid-gap: 10px;
 	margin-top: 10%;
 	margin-left: 25%;
-/*	grid-template-columns: repeat(auto-fit, minmax(1px, 200px));*/
+	grid-template-columns: repeat(auto-fit, minmax(1px, 200px));
 }
 
 li {
@@ -22,4 +22,4 @@ li {
 	.homepage {
 		width: 100px;
 		height: 100px;	
-}
+}*/

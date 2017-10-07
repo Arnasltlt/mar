@@ -18,4 +18,5 @@
 	{% include mobile/Collaborations.css %}
 	{% include mobile/furniture.css %}
 	{% include mobile/design.css %}
+	{% include mobile/nav.css %}
 }

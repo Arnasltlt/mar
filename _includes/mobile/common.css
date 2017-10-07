@@ -3,21 +3,33 @@
 }
 */
 
+.Logo {
+	display: grid;
+	grid-template-columns: 2fr 3fr 2fr;
 
+}
 
 .Marius {
 	text-align: center;
-	background-color: lime;
+	grid-column: 2;
 }
 
-.social{
-	position: absolute;
-	top: 4%;
-	right:5%;
+.social {
 	display: flex;
-	margin: 10px;
-	margin-right: 15%;
-}
-	.f {
+	grid-column: 3;
+	width: 120px;
+	height: 120px;
+	margin-top: 50px;
 
-	}
+}
+
+#f { 
+	height: 30px;
+	width: 30px;
+ }
+
+ #i {
+ 	height: 30px;
+ 	width: 30px;
+ }
+

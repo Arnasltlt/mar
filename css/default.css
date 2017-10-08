@@ -11,7 +11,7 @@
 	{% include design.css %}
 	{% include materials.css %} 
 
-@media screen and (max-width: 880px) {
+@media screen and (min-width: 360px) and (-webkit-device-pixel-ratio: 3) {
 	{% include mobile/materials.css %}	
 	{% include mobile/common.css %}
 	{% include mobile/info.css %}

@@ -1,17 +1,4 @@
-body{
-	color: blue;
-}
-
-title {
-	
-} /*Copinti sita i kiekvieno page css*/
-/*.Marius {
-	position: absolute;
-	top: 2%;
-	right: 43%;*/
-} /*........*/
-
-
+/*
 .meniu {
 	display: grid;
 	grid-template-columns: repeat(11, 1fr);
@@ -27,7 +14,7 @@ title {
 		color: black;
 		
 	}
-/*	.social {
+	.social {
 		grid-column: 10;
 		display: grid;
 		grid-template-columns: repeat(2,1fr);
@@ -45,7 +32,7 @@ title {
 
 		#i {
 			
-			}*/
+			}
 
 	.custom_made {
 		grid-column: 4;
@@ -72,3 +59,4 @@ title {
 			justify-content: center;
 		}
 
+*/

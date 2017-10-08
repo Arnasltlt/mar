@@ -14,6 +14,7 @@
 	grid-column: 2;
 }
 
+
 .social {
 	display: flex;
 	grid-column: 3;
@@ -28,8 +29,8 @@
 	width: 30px;
  }
 
- #i {
+#i {
  	height: 30px;
- 	width: 30px;
+ 	width: 30px; 
  }
 

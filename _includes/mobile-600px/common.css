@@ -1,16 +1,3 @@
-/*body {
-	font-family: 'Proxima Nova', Georgia, sans-serif;
-}
-*/
-
-body {
-	margin-right: auto;
-}
-
-.Logo {
-	display: grid;
-	grid-template-columns: 2fr 3fr 2fr;
-}
 
 .Marius {
 	text-align: center;

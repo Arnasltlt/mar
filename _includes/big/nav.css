@@ -1,0 +1,66 @@
+li {
+	list-style-type: none;
+}
+
+.img.img {
+	width: 150px;
+	height: 150px;
+}
+
+ul.nav.homepage {
+
+}
+
+.nav {
+	margin-top: 100px;
+	display:flex;
+	justify-content: center;
+	margin-left: 20px;
+	margin-right: 50px;
+	text-align: center;
+}
+
+.item {
+	padding: 15px;
+}
+
+
+
+
+/*LOGO + Social*/
+
+body {
+	margin-right: auto;
+}
+
+.Logo {
+	display: grid;
+	grid-template-columns: 2fr 3fr 2fr;
+}
+
+.Marius {
+	text-align: center;
+	grid-column: 2;
+}
+
+
+.social {
+	display: flex;
+	grid-column: 3;
+	width: 120px;
+	height: 120px;
+	margin-top: 50px;
+
+}
+
+#f { 
+	height: 30px;
+	width: 30px;
+ }
+
+#i {
+ 	height: 30px;
+ 	width: 30px; 
+ }
+
+

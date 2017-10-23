@@ -1,0 +1,21 @@
+
+#info {
+	width: 600px;
+	height: 500px;
+	align-items: center;
+	display: flex;
+
+}
+
+#pic {
+	margin-left: 10%;
+	margin-right: 3%;
+}
+
+.page {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-top: 4%;
+
+}

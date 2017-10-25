@@ -1,12 +1,8 @@
-.wrapper {
-	display: flex;
-	flex-direction: column;
-}
 
 .nav {
 	margin-top: 100px;
 	display:flex;
-	flex-direction: column;
+	flex-wrap: wrap;
 	margin-left: 20px;
 	margin-right: 50px;
 	text-align: center;

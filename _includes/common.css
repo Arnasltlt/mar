@@ -1,0 +1,46 @@
+.Logo {
+	display: flex;
+	justify-content: center;
+
+}
+.Marius {
+	padding: 20px;
+	text-align: center;
+	order: 2;
+}
+
+.empty {
+	width: 200px;
+	height: 200px
+	visibility: hidden;
+	flex-shrink: 2;
+}
+
+.empty.one {
+	order: 1;
+}
+
+.empty.two {
+	order: 3;
+}
+
+.social {
+	display: flex;
+	width: 120px;
+	height: 120px;
+	margin-top: 50px;
+	order: 4;
+
+}
+
+#f { 
+	height: 30px;
+	width: 30px;
+
+ }
+
+#i {
+ 	height: 30px;
+ 	width: 30px;
+ }
+

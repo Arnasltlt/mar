@@ -2,6 +2,7 @@
 ---
 
 {% include common.css %}
+{% include nav.css %}
 
  /*Made all with Grid - needs adusting for most devices*/
 @media screen and (max-width: 600px) {
@@ -15,7 +16,7 @@
 
 
 @media screen and (min-width: 601px) and (max-width: 1099px) {
-	{% include 1100px/nav.css %}
+	/*{% include 1100px/nav.css %}*/
 	{% include 1100px/materials.css %}	
 	{% include 1100px/info.css %}
 	{% include 1100px/Collaborations.css %}
@@ -25,7 +26,6 @@
 
 @media screen and (min-width: 1100px) {
 
-	{% include css/nav.css %}
 	{% include css/info.css %}
 	{% include css/Collaborations.css %}
 	{% include css/furniture.css %}

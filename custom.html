@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="main">
+	
+	{% include nav_buttons.html page='custom' %}
+
+
+	<div class="inner_div">
+		<div id="Tables"> 
+			{% include nav_galerija.html page='custom' %}
+		</div>
+		<div id="Cabinets" style="display: none;"> 
+			{% include nav_galerija.html page='cabinets' %} 
+		</div>
+		<div id="Chairs" style="display: none;">
+			{% include nav_galerija.html page='Chairs' %} 
+		</div>
+		<div id="Beds" style="display: none;">
+			{% include nav_galerija.html page='Beds' %}
+		</div>
+		<div id="Wardrobes" style="display: none;">
+			{% include nav_galerija.html page='Wardrobes' %}
+		</div>
+		<div id="Kitchens" style="display: none;">
+			{% include nav_galerija.html page='Kitchens' %}
+		</div>
+		<div id="Bookshelfs" style="display: none;">
+			{% include nav_galerija.html page='Bookshelfs' %}
+		</div>
+		<div id="Projects" style="display: none;">
+			{% include nav_galerija.html page='Projects' %}
+		</div>
+	</div>
+
+
+
+</div>
+
+<script type="text/javascript">
+	
+	 var divs = ["Tables", "Cabinets", "Chairs", "Beds", "Wardrobes", "Kitchens", "Bookshelfs", "Projects"];
+    var visibleDivId = null;
+    function divVisibility(divId) {
+      if(visibleDivId === divId) {
+        visibleDivId = null;
+      } else {
+        visibleDivId = divId;
+      }
+      hideNonVisibleDivs();
+    }
+    function hideNonVisibleDivs() {
+      var i, divId, div;
+      for(i = 0; i < divs.length; i++) {
+        divId = divs[i];
+        div = document.getElementById(divId);
+        if(visibleDivId === divId) {
+          div.style.display = "block";
+        } else {
+          div.style.display = "none";
+        }
+      }
+    }
+
+
+
+</script>

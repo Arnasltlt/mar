@@ -1,12 +1,17 @@
 
 
-<ul class="nav {{include.page}}"> <!-- REMOVE -->
+<ul class="nav {{include.page}}">
 	{% for item in site.data.Main_navigation %}
 		{% if item.page == {{include.page}} %}
 			<li class="item {{item.page}} {{item.id}}">
 				<a href="{{site.baseurl}}/{{item.URL}}"><img class="img {{item.page}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
-				{{item.name}} 
+				<span class="pavadinimas">{{item.name}}</span> 
 			</li>
 		{% endif %}	
 	{% endfor %}
 </ul>
+
+
+<!-- For every item in the _data/Main_navigation.yml returns items only with the fitting ".page" definition and creates the entire navigation. It creates a list with a specific class for each item and an image specified in the same source file.
+
+The .page is identified when calling for this include with a " " -->

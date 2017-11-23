@@ -1,0 +1,9 @@
+
+
+<div class="buttons"> 
+	{% for item in site.data.buttons %}
+		{% if item.page == {{include.page}} %}
+			<a href="#" onclick="divVisibility('{{item.name}}');"> {{item.name}} </a> 	
+		{% endif %}	
+	{% endfor %}
+</div>

@@ -6,12 +6,13 @@
 
  /*Made all with Grid - needs adusting for most devices*/
 @media screen and (max-width: 600px) {
-	{% include mobile-600px/materials.css %}	
-	{% include mobile-600px/info.css %}
-	{% include mobile-600px/Collaborations.css %}
-	{% include mobile-600px/furniture.css %}
-	{% include mobile-600px/design.css %}
-	{% include mobile-600px/nav.css %}
+	{% include mobile-600px/materials-600.css %}	
+	{% include mobile-600px/info-600.css %}
+	{% include mobile-600px/Collaborations-600.css %}
+	{% include mobile-600px/furniture-600.css %}
+	{% include mobile-600px/design-600.css %}
+	{% include mobile-600px/nav-600.css %}
+	{% include mobile-600px/custom-600.css %}
 }
 
 

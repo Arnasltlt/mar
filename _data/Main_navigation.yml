@@ -2,7 +2,7 @@
 
 - name: Custom made
   page: homepage
-  URL: Custom.html
+  URL: custom.html
   image: img/1.jpg
   link: {{custom.html}}
   id: custom_made

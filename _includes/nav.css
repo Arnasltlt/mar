@@ -27,3 +27,12 @@ li {
 h2.paslaugos {
 	text-align: center;
 }
+
+.pavadinimas {
+	width: 100px;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+
+}
+

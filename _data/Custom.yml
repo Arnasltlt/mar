@@ -1,0 +1,87 @@
+# TABLES
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Rectangular Dining Table
+  page: custom
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+# Cabinets
+
+- name: Reclaimed Materials
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: cabinets
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}

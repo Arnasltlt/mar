@@ -6,4 +6,16 @@ layout: default
 <h2 class="qoute"> Aš nekuriu naujų formų. Visas daikto grožis yra jo medžiagoje. </h2>
 	
 
-{% include nav.html page='Materials' %}
+
+	<ul class="nav materials">
+		{% if site.data.products.Produktai[0] %}
+			{% for item in site.data.materials.Materials %}
+			<li class="item">
+				<a href="{{site.baseurl}}/material_page.html?{{item.unique}}""><img class="img unique" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
+				<span class="pavadinimas">{{item.name}}</span> 
+			</li>
+	
+			{% endfor %}
+
+		{% endif %}	
+	</ul>

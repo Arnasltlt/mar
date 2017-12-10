@@ -4,7 +4,7 @@
 	{% for item in site.data.Custom %}
 		{% if item.page == {{include.page}} %}
 			<li class="item {{item.page}} {{item.id}}">
-				<a href="{{site.baseurl}}/{{item.URL}}"><img class="img {{item.page}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
+				<a href="{{site.baseurl}}/products.html?{{include.page}}"><img class="img {{item.page}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
 				<span class="pavadinimas">{{item.name}}</span> 
 			</li>
 		{% endif %}	

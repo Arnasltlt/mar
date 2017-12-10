@@ -42,7 +42,8 @@
   image: img/2.jpg
   link: {{custom.html}}
 
-# Cabinets
+
+# cabinets
 
 - name: Reclaimed Materials
   page: cabinets
@@ -74,14 +75,147 @@
   image: img/2.jpg
   link: {{custom.html}}
 
-- name: Reclaimed Materials Cabinet
-  page: cabinets
+# Chairs
+
+- name: Reclaimed Materials
+  page: Chairs
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials
+  page: Chairs
   URL: custom.html
   image: img/2.jpg
   link: {{custom.html}}
 
 - name: Reclaimed Materials Cabinet
-  page: cabinets
+  page: Chairs
   URL: custom.html
   image: img/2.jpg
   link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Chairs
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Chairs
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+
+# Beds
+
+- name: Reclaimed Materials
+  page: Beds
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials
+  page: Beds
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Beds
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Beds
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Beds
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+
+# Wardrobes
+
+- name: Reclaimed Materials
+  page: Wardrobes
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials
+  page: Wardrobes
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Wardrobes
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Wardrobes
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Reclaimed Materials Cabinet
+  page: Wardrobes
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+
+# Kitchens
+
+- name: Kitchen 1
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 2
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 3
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 4
+  page: Kitchenss
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 5
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 6
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+- name: Kitchen 7
+  page: Kitchens
+  URL: custom.html
+  image: img/2.jpg
+  link: {{custom.html}}
+
+

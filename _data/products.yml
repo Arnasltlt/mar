@@ -1,0 +1,293 @@
+
+Produktai:
+# Stalai  
+
+  - baldo_tipas: Tables
+    class: tables
+    subfolderitems:
+
+      - name: Regular Dining Table
+        product: regular_dining_table
+        description: Grazus rudas stalas
+        thumbnail: img/4.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: Grazus stalas
+
+          - image: img/3.jpg
+            caption: Labai grazus stalas
+
+          - image: img/3.jpg
+            caption: Grazus stalas
+
+          - image: img/3.jpg
+            caption: Labai grazus stalas
+
+          - image: img/3.jpg
+            caption: Grazus stalas
+
+          - image: img/3.jpg
+            caption: Labai grazus stalas
+
+      - name: Desk 'Japan' No.002
+        product: desk_japan
+        description: Vajetau koks japoniskas stalas
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: ching chang chong
+
+          - image: img/1.jpg
+            caption: dam balabam
+
+      - name: Console Table No.002
+        product: console_table_2
+        description: maza, pilka spintele
+        thumbnail: img/3.jpg
+        nuotraukos:
+
+          - image: img/4.jpg
+            caption: Vaje kokia maza pilka spindele
+
+          - image: img/4.jpg
+            caption: pilka pilka spintele
+
+      - name: Reclaimed Oak Desk
+        product: reclaimed_oak_desk
+        description: Grazus rudas stalas su juodu bruksniu
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: Grazus stalas
+
+          - image: img/3.jpg
+            caption: Labai grazus stalas
+
+          - image: img/3.jpg
+            caption: Grazus stalas
+
+
+      - name: Console Table No.001
+        product: console_table_1
+        description: Vajetau koks melynas staliukas
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: ching chang chong
+
+          - image: img/1.jpg
+            caption: dam balabam
+
+      - name: Console Table No.002
+        product: console_table_2
+        description: maza, pilka spintele
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/4.jpg
+            caption: Vaje kokia maza pilka spindele
+
+          - image: img/4.jpg
+            caption: pilka pilka spintele
+
+      - name: Desk '34' No.003
+        product: desk_34_3
+        description: didelis RUuuuudas stalas
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/4.jpg
+            caption: Vaje kokia maza pilka spindele
+
+          - image: img/4.jpg
+            caption: pilka pilka spintele    
+
+# Cabinets                   
+
+  - baldo_tipas: Cabinets
+    class: cabinets
+    subfolderitems:
+
+      - name: Reclaimed Materials Cabinet No.002
+        product: reclaimed_cabinet_2
+        description: Raudona raudona dezute
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/5.jpg
+            caption: raudona kaip kraujas
+
+          - image: img/5.jpg
+            caption: raudona kaip burokas
+
+      - name: Reclaimed Materials Cabinet No.001
+        product: reclaimed_cabinet_1
+        description: Zalia spintele spintele!
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus spintelius
+
+          - image: img/3.jpg
+            caption: belekaip grazus spintaliukas    
+
+# CHAIRS 
+
+  - baldo_tipas: Chairs
+    class: chairs
+    subfolderitems:
+
+      - name: Reclaimed Oak Stool
+        product: reclaimed_oak_stool
+        description: Kede ant kurios nesinori nesedeti!
+        thumbnail: img/1.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus stalas
+
+          - image: img/3.jpg
+            caption: belekaip grazus stalas
+
+#Beds
+    
+  - baldo_tipas: Beds
+    class: beds
+    subfolderitems:
+
+      - name: Nida Bed
+        product: nida_bed
+        description: Tokia ruda kaip Nidos dvasia
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: Tikrai Grazus stalas
+
+          - image: img/2.jpg
+            caption: Tikrai grazus stalas
+
+      - name: Pallet Bed
+        product: pallet_bed
+        description: Visai is medzio.
+        thumbnail: img/1.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus lovvvs
+
+          - image: img/3.jpg
+            caption: belekaip grazus lova
+
+# Wardrobes
+
+  - baldo_tipas: Wardrobes
+    class: wardrobes
+    subfolderitems:
+
+      - name: Wardrobe in The Wall
+        product: wardrobe_in_wall
+        description: Visai sienoje vajezau
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: Tikrai Grazus spinta
+
+          - image: img/1.jpg
+            caption: Spinta spinta spinta
+
+      - name: Cupboard
+        product: cupboard
+        description: Balta balta kur dairais
+        thumbnail: img/6.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus 
+
+          - image: img/3.jpg
+            caption: belekaip grazus 
+
+# Kitchens
+
+  - baldo_tipas: Kitchens
+    class: kitchens
+    subfolderitems:
+      
+      - name: Kitchen '3 objects'
+        product: kitchen_3_objects
+        description: Normaliai cia
+        thumbnail: img/4.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: Tikrai Grazus stalas
+
+          - image: img/2.jpg
+            caption: Tikrai grazus vaizdas
+
+      - name: Kitchen "White + Oak"
+        product: kitchen_white_oak
+        description: Vel visur balta
+        thumbnail: img/4.9.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus stalas
+
+          - image: img/3.jpg
+            caption: belekaip grazus stalas
+
+# Bookshelfs
+
+  - baldo_tipas: Bookshelfs
+    class: bookshelfs
+    subfolderitems:
+      
+      - name: Bookshelf
+        product: bookshelf_namie
+        description: Cia pas mane namie taip kietai L20x W400x H 400
+        thumbnail: img/1.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: Tikrai Grazus stalas
+
+          - image: img/2.jpg
+            caption: Tikrai grazus stalas
+
+# Projects
+
+  - baldo_tipas: Projects
+    class: project
+    subfolderitems:
+      
+      - name: ToksVisoks & PYKOK Studio
+        product: visoks_pykok_studio
+        description: Nu cia visokius dalykus darem
+        thumbnail: img/2.jpg
+        nuotraukos:
+
+          - image: img/1.jpg
+            caption: Tikrai Grazus 
+
+          - image: img/1.jpg
+            caption: Tikrai grazus 
+
+      - name: Jewelry Stand For Exposion
+        product: Jewelry_stand
+        description: Cia pakabint visokius dalykus galima
+        thumbnail: img/3.jpg
+        nuotraukos:
+
+          - image: img/3.jpg
+            caption: belekaip Grazus pakabutis
+
+          - image: img/3.jpg
+            caption: belekaip grazus bling-bling

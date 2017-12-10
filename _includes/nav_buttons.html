@@ -1,9 +1,9 @@
 
 
 <div class="buttons"> 
-	{% for item in site.data.buttons %}
-		{% if item.page == {{include.page}} %}
-			<a href="#" onclick="divVisibility('{{item.name}}');"> {{item.name}} </a> 	
-		{% endif %}	
+	{% if site.data.products.Produktai[0] %}
+	{% for item in site.data.products.Produktai %}
+			<a href="{{site.baseurl}}/custom.html#" class="meniu {{item.class}}"> {{item.baldo_tipas}} </a> 	
 	{% endfor %}
+	{% endif %}	
 </div>

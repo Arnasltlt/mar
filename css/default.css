@@ -1,6 +1,7 @@
 ---
 ---
 
+
 {% include common.css %}
 {% include nav.css %}
 
@@ -23,6 +24,7 @@
 	{% include 1100px/Collaborations.css %}
 	{% include 1100px/furniture.css %}
 	{% include 1100px/design.css %}
+	{% include products.css %} 
 }
 
 @media screen and (min-width: 1100px) {
@@ -32,4 +34,5 @@
 	{% include css/furniture.css %}
 	{% include css/design.css %}
 	{% include css/materials.css %} 
+	{% include products.css %} 
 }

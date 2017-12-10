@@ -1,0 +1,45 @@
+
+<div class="products full">
+
+	<div>
+	{% if site.data.products.Produktai[0] %}
+	<!-- Checks if there are items on this level -->
+	  {% for item in site.data.products.Produktai %}
+	  <!-- Opens the "folder" Produktai and for each entry let's you do what you want. I skipped this step -->
+	      {% if item.subfolderitems[0] %}       
+	          	{% for entry in item.subfolderitems %}
+	          	<!-- Checks the Sub-folder and for each item does something (Entry = variable you can name) -->
+	        <div class="{{entry.product}} baldas">  	
+	          	<h2 class="prodpavadinimas"> {{ entry.name }} </h2>
+	          	<div class="pic_and_desc">
+	          			
+	             			
+		            <div class="Product gallery"> 			
+		                {% if entry.nuotraukos[0] %}
+		                  <ul class="Product gallery">
+		                  {% for subentry in entry.nuotraukos %}
+		                  	<!-- Paskutinis sluoksnis -->
+		                      <li><a href="{{site.baseurl}}/{{subentry.image}}" class={{item.class}} data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img src="{{subentry.image}}"  style="height: 150px; width: 150px;"></a> </li>
+		                  {% endfor %}
+		                  </ul>
+		            </div>
+		            <!-- Nuotraukos baiges -->
+
+		   			<p class="aprasymas"> {{entry.description}} </p>
+		   		</div>
+		   		 <!-- Aprasymas su nuotraukomis baiges -->  
+		   	</div>
+		                  
+		                {% endif %}  
+	          {% endfor %}
+	          	
+	       
+	      {% endif %}
+	    {% endfor %}
+	    <!-- Viskas baiges -->
+	{% endif %}
+	</div>
+
+</div>
+
+

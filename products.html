@@ -13,6 +13,24 @@ layout: default
 
 
 
+
+// {% if site.data.products.Produktai[0] %}
+// {% for item in site.data.products.Produktai %}
+
+//   $(document).ready(function(){
+//       $(".meniu.{{item.class}}").click(function(){
+//           $(".nav").hide();
+//           $("#{{item.class}}").toggle();
+//     });
+// });
+// {% endfor %}
+// {% endif %}
+
+
+// $(document).ready(function() {
+//     $(".baldas").hide();
+// });
+
   if (location.search == "?whatever") {
           $('.placeholder').show();   
       }
@@ -33,5 +51,30 @@ layout: default
   {% endfor %}
   {% endif %} 
 
+
+  	// if (location.search == "?custom") {
+   //              $('.Apvalus_stalas').show();   
+   //          }
+
+   //  else if (location.search == "?cabinets") {
+   //              $('.Kvadratinis_stalas').show();
+               
+   //          }
+   //  else if (location.search == "?Chairs") {
+   //              $('.product.table2').show();
+               
+   //          }
+   //  else if (location.search == "?Beds") {
+   //              $('.product.table#3').show();
+               
+   //          }            
+            // if the url string is `?sample=two`
+            // hide `#element1` 
+            // we are also removing the class of `.hide` from the dom off `#element1`
+
+  	// else if (location.search == "?cabinets") {
+   //              $('#Materials').hide();
+   //              $('#Collaborations').show().removeClass('hide');
+   //          }
 
 </script>

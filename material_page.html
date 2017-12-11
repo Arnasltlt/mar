@@ -3,21 +3,49 @@ layout: default
 ---
 {% if site.data.materials.Materials[0] %} 
 	{% for item in site.data.materials.Materials %}
+	<div class="baldas {{item.unique}}">
+		
+		<div class="apie_medziaga">	
+			<h2> {{item.name}} </h2>
 
-	<h2> {{item.name}} </h2>
+			<p> {{item.aprasymas}} </p>
+		</div>
+				<ul class="nav">
+					{% if item.viduje[0] %}
+					{% for entry in item.viduje %}
+						<li class="item material">
+						<a href="{{site.baseurl}}/{{entry.img}}" class={{item.unique}} data-lightbox="{{item.unique}}" data-title="{{entry.caption}}"><img class="img {{item.unique}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
+						<span class="pavadinimas">{{item.name}}</span> 
+						</li>
+					{% endfor %}
+					{% endif %}
 
-	<p class="pavadinimas"> {{item.aprasymas}} </p>
-		<ul>
-			{% if item.viduje[0] %}
-			{% for entry in item.viduje %}
-				<li class="item material">
-				<a href="#" class={{item.unique}} data-lightbox="{{item.unique}}" data-title="{{entry.caption}}"><img class="img {{item.unique}}" src="{{item.image}}" alt="Picture of {{item.name}}"></a><br>
-				<span class="pavadinimas">{{item.name}}</span> 
-				</li>
-			{% endfor %}
-			{% endif %}
-
-		</ul>
+				</ul>
+		
+	</div>
 	{% endfor %}
 {% endif %}
 
+
+
+<script type="text/javascript">
+
+
+
+  if (location.search == "?whatever") {
+          $('.placeholder').show();   
+      }
+
+  {% if site.data.materials.Materials[0] %}
+  {% for item in site.data.materials.Materials %}
+
+
+          else if (location.search == "?{{item.unique}}") {
+              $('.{{item.unique}}').show();   
+            }
+
+  {% endfor %}
+  {% endif %} 
+
+
+</script>

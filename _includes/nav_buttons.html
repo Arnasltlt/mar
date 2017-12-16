@@ -3,7 +3,7 @@
 <div class="buttons"> 
 	{% if site.data.products.Produktai[0] %}
 	{% for item in site.data.products.Produktai %}
-			<a href="{{site.baseurl}}/custom.html#" class="meniu {{item.class}}"> {{item.baldo_tipas}} </a> 	
+			<a href="{{site.baseurl}}/custom.html?{{item.class}}" class="meniu {{item.class}}"> {{item.baldo_tipas}} </a> 	
 	{% endfor %}
 	{% endif %}	
 </div>

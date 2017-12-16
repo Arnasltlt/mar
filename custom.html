@@ -35,22 +35,44 @@ layout: default
 
 <script type="text/javascript">
 
-$(document).ready(function() {
-    $(".nav").hide();
-});
+// $(document).ready(function() {
+//     $(".nav").hide();
+// });
 
-{% if site.data.products.Produktai[0] %}
-{% for item in site.data.products.Produktai %}
 
-	$(document).ready(function(){
-    	$(".meniu.{{item.class}}").click(function(){
-        	$(".nav").hide();
-        	$("#{{item.class}}").toggle();
-    });
-});
-{% endfor %}
-{% endif %}
+
+// {% if site.data.products.Produktai[0] %}
+// {% for item in site.data.products.Produktai %}
+
+// 	$(document).ready(function(){
+//     	$(".meniu.{{item.class}}").click(function(){
+//         	$(".nav").hide();
+// 			    $("#{{item.class}}").css({display:"flex"});
+// 		});
+//     });
+// {% endfor %}
+// {% endif %}
+
    	 	
+</script>
+
+<script type="text/javascript">
+	  
+	  if (location.search == "?whatever") {
+          $('.placeholder').show();   
+      }
+
+  {% if site.data.products.Produktai[0] %}
+  {% for item in site.data.products.Produktai %}
+
+
+          else if (location.search == "?{{item.class}}") {
+              $('#{{item.class}}').css({display:"flex"});
+               
+            }
+  {% endfor %}
+  {% endif %}
+
 
 
 </script>

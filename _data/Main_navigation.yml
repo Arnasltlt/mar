@@ -82,7 +82,7 @@
 
 - name: Jusu uzsakymas
   page: Designing
-  URL: Designing.html
+  URL: #forma
   image: img/2.jpg
   link: {{custom.html}}
 

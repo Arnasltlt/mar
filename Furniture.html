@@ -15,17 +15,17 @@ layout: default
 			{% include nav.html page='Furniture' %}
 
 
-			<div class="forma">	
+			<div class="forma" method='post' action="https://api.staticman.net/v1/entry/Arnasltlt/mar/gh-pages">	
 				<form>
 						Your First name:<br>
-						<input type="text" name="name" placeholder="Tavo vardas" style="width: 500px;"><br>
+						<input type="text" name="fields[name]" placeholder="Tavo vardas" style="width: 500px;"><br>
 
 						Your E-mail:<br>
-						<input type="text" name="e-mail" placeholder="Your e-mail" style="width: 500px;"">
+						<input type="text" name="fields[e-mail]" placeholder="Your e-mail" style="width: 500px;"">
 
 						<div class="message">
 						Your message:<br>
-						<input type="text" name="description" placeholder="Your message" style="height: 150px; width: 500px;">
+						<input type="textarea" cols="40" rows="5" name="fields[description]" placeholder="Your message" style="height: 150px; width: 500px;">
 						</div>
 
 						<input type="submit" name="submit">

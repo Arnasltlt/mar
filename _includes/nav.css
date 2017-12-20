@@ -3,12 +3,6 @@ li {
 	list-style-type: none;
 }
 
-.img.img {
-	width: 100px;
-	height: 100px;
-	padding: 25px;
-}
-
 .nav {
 	display: flex;
 	flex-flow: row wrap;
@@ -19,10 +13,9 @@ li {
 	text-align: center;
 }
 
-.img.img.Designing {
-	height: 200px;
-	width: 200px;
-}
+
+
+
 
 h2.paslaugos {
 	text-align: center;
@@ -36,3 +29,9 @@ h2.paslaugos {
 
 }
 
+
+.img {
+	width: 100px;
+	height: 100px;
+	padding: 25px;
+}

@@ -14,12 +14,12 @@
 	          	<div class="pic_and_desc">
 	          			
 	             			
-		            <div class="Product gallery"> 			
+		            <div> 			
 		                {% if entry.nuotraukos[0] %}
-		                  <ul class="Product gallery">
+		                  <ul class="nav product gallery">
 		                  {% for subentry in entry.nuotraukos %}
 		                  	<!-- Paskutinis sluoksnis -->
-		                      <li><a href="{{site.baseurl}}/{{subentry.image}}" class={{item.class}} data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img src="{{subentry.image}}"  style="height: 150px; width: 150px;"></a> </li>
+		                      <li><a href="{{site.baseurl}}/{{subentry.image}}" class="{{item.class}}" data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img class="img" src="{{subentry.image}}"></a> </li>
 		                  {% endfor %}
 		                  </ul>
 		                  {% endif %}

@@ -1,0 +1,10 @@
+.visas {
+	display: flex;
+	justify-content: center;
+}
+
+
+.message {
+	width: 250px;		
+	height: 200px;
+}

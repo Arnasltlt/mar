@@ -2,14 +2,20 @@
 ---
 
 
-{% include common.css %}
-{% include nav.css %}
-{% include info.css %}
-{% include furniture.css %}
-{% include products.css %} 
+{% include css/common.css %}
+{% include css/nav.css %}
+{% include css/info.css %}
+{% include css/furniture.css %}
+{% include css/products.css %} 
 
 
 @media screen and (max-width: 600px) {
+
+.nav.custom_baldai {
+	margin: 0;
+}
+
+
 }
 
 

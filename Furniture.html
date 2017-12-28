@@ -19,16 +19,16 @@ layout: default
 			<div class="forma">	
 				<form method='post' action="https://getsimpleform.com/messages?form_api_token=e0416a20ae300032597f26ef0c10602c">
 				<input type='hidden' name='redirect_to' value='https://www.3dhubs.com' />
-						Your First name:<br>
-						<input type="text" name="name" placeholder="Tavo vardas" style="width: 500px;"><br>
-						Title: <br>
-						<input type="text" name="title" placeholder="Title" style="width: 500px;"> <br>
-						Your E-mail:<br>
-						<input type="text" name="e-mail" placeholder="Your e-mail" style="width: 500px;"">
+						<h3> Your First name: </h3>
+						<input type="text" name="name" placeholder="Your name" style="width: 500px;" required><br>
+						<h3> Subject: </h3>
+						<input type="text" name="title" placeholder="Product Design request" style="width: 500px;" required> <br>
+						<h3>Your E-mail:</h3>
+						<input type="text" name="e-mail" placeholder="Your e-mail" style="width: 500px;" required>
 
 						<div class="message">
-						Your message:<br>
-						<input type="textarea" cols="40" rows="5" name="description" placeholder="Your message" style="height: 150px; width: 500px;">
+						<h3>Your message: </h3>
+						<input type="textarea" cols="40" rows="5" name="description" placeholder="Your message" style="height: 150px; width: 500px;" required>
 						</div>
 
 						<input type="submit" name="submit">

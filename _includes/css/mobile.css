@@ -1,0 +1,19 @@
+.baldas {
+	margin-top: 80px;
+}
+
+
+.nav.buttons {
+	width: auto;
+	
+}
+
+.prodpavadinimas {
+	text-align: center;
+}
+
+.pic_and_desc {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}

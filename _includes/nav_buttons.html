@@ -3,7 +3,9 @@
 <div class="nav buttons"> 
 	{% if site.data.products.Produktai[0] %}
 	{% for item in site.data.products.Produktai %}
-			<a href="{{site.baseurl}}/custom.html?{{item.class}}" class="button {{item.class}}"> {{item.baldo_tipas}} </a> 	
+		<div class="element">	
+			<img src="{{site.baseurl}}/img/1.jpg" class="img galerija"> <br> <a href="{{site.baseurl}}/?{{item.class}}" class="button {{item.class}}"> {{item.baldo_tipas}} </a> 	
+		</div>
 	{% endfor %}
 	{% endif %}	
 </div>

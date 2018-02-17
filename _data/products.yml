@@ -4,6 +4,7 @@ Produktai:
 
   - baldo_tipas: Tables
     class: tables
+    thumb: img/2.jpg
     subfolderitems:
 
       - name: Regular Dining Table
@@ -110,6 +111,7 @@ Produktai:
 
   - baldo_tipas: Cabinets
     class: cabinets
+    thumb: img/2.jpg
     subfolderitems:
 
       - name: Reclaimed Materials Cabinet No.002
@@ -158,6 +160,7 @@ Produktai:
     
   - baldo_tipas: Beds
     class: beds
+    thumb: img/2.jpg
     subfolderitems:
 
       - name: Nida Bed
@@ -188,6 +191,7 @@ Produktai:
 
   - baldo_tipas: Wardrobes
     class: wardrobes
+    thumb: img/2.jpg
     subfolderitems:
 
       - name: Wardrobe in The Wall
@@ -218,6 +222,7 @@ Produktai:
 
   - baldo_tipas: Kitchens
     class: kitchens
+    thumb: img/2.jpg
     subfolderitems:
       
       - name: Kitchen '3 objects'
@@ -248,6 +253,7 @@ Produktai:
 
   - baldo_tipas: Bookshelfs
     class: bookshelfs
+    thumb: img/2.jpg
     subfolderitems:
       
       - name: Bookshelf
@@ -266,6 +272,7 @@ Produktai:
 
   - baldo_tipas: Projects
     class: project
+    thumb: img/2.jpg
     subfolderitems:
       
       - name: ToksVisoks & PYKOK Studio

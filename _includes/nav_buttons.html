@@ -4,7 +4,9 @@
 	{% if site.data.products.Produktai[0] %}
 	{% for item in site.data.products.Produktai %}
 		<div class="element">	
-			<img src="{{site.baseurl}}/img/1.jpg" class="img galerija"> <br> <a href="{{site.baseurl}}/?{{item.class}}" class="button {{item.class}}"> {{item.baldo_tipas}} </a> 	
+			<a href="{{site.baseurl}}/?{{item.class}}" class="button {{item.class}}">  {{item.baldo_tipas}} </a>
+			<br>
+			<a href="{{site.baseurl}}/?{{item.class}}"><img src="img/1.jpg" class="img hgallery"></a>
 		</div>
 	{% endfor %}
 	{% endif %}	

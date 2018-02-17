@@ -34,9 +34,14 @@ layout: default
 
 
 <script type="text/javascript">
+	
+	if (location.search == ""){
+		window.location = "{{site.baseurl}}/?home";
+	}
+
 	  
-	  if (location.search == "{{site.baseurl}}") {
-          $('.img.img.galerija').show();   
+	  if (location.search == "?home") {
+          $('.hgallery').show();   
       }
 
   {% if site.data.products.Produktai[0] %}
@@ -53,5 +58,3 @@ layout: default
 
 
 </script>
-
-	

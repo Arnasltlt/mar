@@ -3,10 +3,6 @@
 }
 
 
-.nav.buttons {
-	width: auto;
-	
-}
 
 .prodpavadinimas {
 	text-align: center;
@@ -16,4 +12,33 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+
+	.social {
+		overflow: hidden;
+		background-color: #edf3ff;
+		position: fixed;
+		bottom:0;
+		width: 100%;
+		right: initial;
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.icons img {
+		margin-top: 25px;
+		height: 50px;
+	 	width: 50px;
+	}
+
+	#info {
+		margin-top: 35px;
+		}
+}
+
+.page {
+	display: flex;
+	flex-wrap: wrap;
 }

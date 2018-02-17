@@ -1,10 +1,10 @@
 
 
 div.pic_and_desc {
-	width: 900px;
-	height: 500px;
 	display: flex;
 	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
 
 }
 
@@ -18,7 +18,6 @@ div.pic_and_desc {
 }
 
 .aprasymas {
-	border-style: solid;
 	padding: 15px;
 	margin-left: 10px;
 	width: 500px;
@@ -26,8 +25,7 @@ div.pic_and_desc {
 }
 
 .prodpavadinimas {
-	margin-left: 25%;
-	width: 500px;
+	display: flex;
 	justify-content: center;
 	margin-bottom: 40px;
 

@@ -7,6 +7,115 @@ Produktai:
     thumb: img/2.jpg
     subfolderitems:
 
+      - name: Bedside Tables
+        product: bedside-tables-w40-x-d36-x-h53-cm
+        thumbnail: http://78.media.tumblr.com/9fb7810b6811a6a82c7f12dda818b43a/tumblr_oi7ykowxDp1swpixeo1_250.jpg
+        description: Bedside Tables W40 x D36 x H53 cm
+        nuotraukos:
+
+      - name: Dinning table
+        product: dining-table-top-oak-wood-oiled-legs-plywood
+        thumbnail: http://78.media.tumblr.com/42cdb2dce49de4d8ec2c95894fde139c/tumblr_p1q5iycP3C1swpixeo1_250.jpg
+        description: Dining TableTop - oak wood, oiledLegs - plywood waste, painted blue, high glossL220 x W90 x H76 cm
+        nuotraukos:
+
+      - name: Coffee table
+        product: coffee-table-reclaimed-wood-brass-top-l91-x-w42
+        thumbnail: http://78.media.tumblr.com/71bdd402cd7dfed86a9f211d10bf265c/tumblr_p0swhwNrpR1swpixeo6_250.jpg
+        description: Coffee TableReclaimed Wood + Brass TopL91 x W42 x H60 cm 
+        nuotraukos:
+
+      - name: Rectangular table
+        product: cmrectangular-table-top-old-oak-wood-oiled-leg 
+        thumbnail: http://78.media.tumblr.com/49b6df22baddb486e579d11e779bf991/tumblr_osttfjqYT51swpixeo3_250.jpg
+        description: Rectangular TableTop - old oak wood, oiledLeg - plywood waste, painted green and high gloss lacqueredL110 x W80 x H66 cm
+        nuotraukos:
+
+      - name: Summer table
+        product: summer-table-plywood-oak-l83-x-w60-x-h72-cm
+        thumbnail: http://78.media.tumblr.com/79a4863e7431796ecd1f5dd5d547f151/tumblr_osk6tdVxIe1swpixeo1_250.jpg
+        description: Summer TablePlywood + OakL83 x W60 x H72 cm
+        nuotraukos:
+
+      - name: Coffee table
+        product: reclaimed-wood-coffee-table-d60-x-h55-cm
+        thumbnail: http://78.media.tumblr.com/beae78b2cd7e865eeda5c973a8f0caba/tumblr_ohpqjzYybN1swpixeo1_250.jpg
+        description: Reclaimed Wood Coffee TableD60 x H55 cm
+        nuotraukos:
+
+      - name:  Reclaimed wood dining table
+        product: reclaimed-wood-dining-table-gloss-lacquer-l140190
+        thumbnail: http://78.media.tumblr.com/49a9706abf134d860a30d177ce999b38/tumblr_ofr3izAH231swpixeo1_250.jpg
+        description: Reclaimed Wood Dining TableGloss lacquerL140/190 x W100 x H78 cm
+        nuotraukos:
+
+      - name: Desk Japan
+        product: desk-japan-plywood-top-white-oil-finish-spruce
+        thumbnail: http://78.media.tumblr.com/36dc0f4b70277c91254f602dc6b43e99/tumblr_ocemlmMBKX1swpixeo1_250.jpg
+        description: Desk ‘Japan’Plywood top, white oil finishSpruce wood legs and drawers, oil finishL105 x W65 x H74 cm
+        nuotraukos:
+
+      - name: 3eyes4legs desk
+        product: 3eyes4legs-desk-no3-chocolate-plywood
+        thumbnail: http://78.media.tumblr.com/b3e75acdd07809eaaf5f3daefed65b2a/tumblr_o68jryVUAU1swpixeo1_250.jpg
+        description: 3eyes4legs Desk No.3Chocolate plywood. Oil finish.L130 x W65 x H74 cm
+        nuotraukos:
+
+      - name: Showcase coffee table
+        product: showcase-coffee-table
+        thumbnail: http://78.media.tumblr.com/12094dfeffecc52ae9d88d596273f90a/tumblr_o2qfd9s3Z91swpixeo2_250.jpg
+        description: Showcase Coffee Table
+        nuotraukos:
+
+      - name: High Desk
+        product: high-desk-shelfbox
+        thumbnail: http://78.media.tumblr.com/1bbe8fc8aa7b8df77f37516fe16dc9ec/tumblr_nswji8nHZo1swpixeo2_250.jpg
+        description: High Desk + Shelf/Box
+        nuotraukos:
+
+      - name: Changing table
+        product: changing-table-for-baby
+        thumbnail: http://78.media.tumblr.com/8183bf2fe0cc92563109efe53d09e0f5/tumblr_nnmhadYQ7C1swpixeo1_250.jpg
+        description: Changing Table for Baby
+        nuotraukos:
+
+      - name: Ellipse dinning table
+        product: ellipse-dining-table-old-wood-was-used-for-table
+        thumbnail: http://78.media.tumblr.com/ed3d05ebfe08a425c1747b1a72150e46/tumblr_nora93rBje1swpixeo1_250.jpg
+        description: Ellipse Dining TableOld wood was used for table top.
+        nuotraukos:
+
+      - name: Coffee table '‘ONE’'
+        product: coffee-table-one
+        thumbnail: http://78.media.tumblr.com/94e03e926f3af6e52ffccf5a0fe4f63b/tumblr_nbkix1rg3V1swpixeo1_250.jpg
+        description: Coffee Table ‘ONE’
+        nuotraukos:
+
+      - name: Coffee table
+        product: coffee-table
+        thumbnail: http://78.media.tumblr.com/2e4351e1643033f2c6f9d0b694c9edfb/tumblr_nmweav2LWL1swpixeo1_250.jpg
+        desciption: Coffee Table
+        nuotraukos:
+
+      - name: Coffee table refresh
+        product: coffee-table-refresh
+        thumbnail: http://78.media.tumblr.com/572636e668fe3663751f382ceea0a327/tumblr_n7eoaz4RAM1swpixeo1_250.jpg
+        description: Coffee Table [refresh]
+        nuotraukos:
+
+      - name: 4.9 desk prototype
+        product: 49-desk-prototype
+        thumbnail: http://78.media.tumblr.com/2deb59fd13caa58bcff5469e1e6c5cdd/tumblr_mzpczr0scu1swpixeo1_250.jpg
+        description: 4,9 Desk [prototype]
+        nuotraukos:
+
+      - name: Mobile Coffee Table
+        product: mobile-coffee-table
+        thumbnail: http://78.media.tumblr.com/6840b4d3ad00e4de6e53ec663b14758b/tumblr_mqdv33GU8i1swpixeo1_250.jpg
+        description: Mobile Coffee Table
+        nuotraukos:
+
+
       - name: Regular Dining Table
         product: regular_dining_table
         description: Grazus rudas stalas

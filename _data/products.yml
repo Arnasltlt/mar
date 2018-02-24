@@ -7,11 +7,18 @@ Produktai:
     thumb: img/2.jpg
     subfolderitems:
 
+      - {name: dining-table-top-oak-wood-oiled-legs-plywood, 
+        description: '<p><b>Dining Table</b></p><p>Top - oak wood, oiled<br/></p><p>Legs - plywood waste, painted blue, high gloss<br/></p><p>L220 x W90 x H76 cm<br/></p>',
+        product: dining-table-top-oak-wood-oiled-legs-plywood,
+        thumbnail: 'http://78.media.tumblr.com/42cdb2dce49de4d8ec2c95894fde139c/tumblr_p1q5iycP3C1swpixeo1_250.jpg',
+        nuotraukos: } 
+
       - name: Bedside Tables
         product: bedside-tables-w40-x-d36-x-h53-cm
         thumbnail: http://78.media.tumblr.com/9fb7810b6811a6a82c7f12dda818b43a/tumblr_oi7ykowxDp1swpixeo1_250.jpg
-        description: Bedside Tables W40 x D36 x H53 cm
+        description: Bedside Tables W40 x D36 x H53 cm,
         nuotraukos:
+            
 
       - name: Dinning table
         product: dining-table-top-oak-wood-oiled-legs-plywood

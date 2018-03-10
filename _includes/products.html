@@ -15,11 +15,11 @@
 	          			
 	             			
 		            <div> 			
-		                {% if entry.nuotraukos[0] %}
+		                {% if entry.Nuotraukos[0] %}
 		                  <ul class="nav product gallery">
-		                  {% for subentry in entry.nuotraukos %}
+		                  {% for subentry in entry.Nuotraukos %}
 		                  	<!-- Paskutinis sluoksnis -->
-		                      <li><a href="{{site.baseurl}}/{{subentry.image}}" class="{{item.class}}" data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img class="img" src="{{subentry.image}}"></a> </li>
+		                      <li><a href="{{subentry.image}}" class="{{item.class}}" data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img class="img" src="{{subentry.image-small}}"></a> </li>
 		                  {% endfor %}
 		                  </ul>
 		                  {% endif %}

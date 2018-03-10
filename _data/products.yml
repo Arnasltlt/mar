@@ -4,7 +4,7 @@ Produktai:
 
   - baldo_tipas: Tables
     class: tables
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/42cdb2dce49de4d8ec2c95894fde139c/tumblr_p1q5iycP3C1swpixeo1_250.jpg
     subfolderitems:
       - name: dining-table-top-oak-wood-oiled-legs-plywood
         product: dining-table-top-oak-wood-oiled-legs-plywood
@@ -661,7 +661,7 @@ Produktai:
 
   - baldo_tipas: Cabinets
     class: cabinets
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/a094765f0b94d0a53d5bd62b947ab04d/tumblr_oqrrpr7Cdl1swpixeo2_250.jpg
     subfolderitems:
 
       - name: old-window-display-cabinet-h178-x-w104-x-d45-cm
@@ -1095,6 +1095,7 @@ Produktai:
 
   - baldo_tipas: Chairs
     class: chairs
+    thumb: http://78.media.tumblr.com/acfb915edf28243f23c5b91a7fb5c77e/tumblr_o66ybgFgag1swpixeo1_250.jpg
     subfolderitems:
       - name: counter-stool-plywood-h60-cm
         product: counter-stool-plywood-h60-cm
@@ -1247,7 +1248,7 @@ Produktai:
     
   - baldo_tipas: Beds
     class: beds
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/7d15075a659fc76c61aa4c6b75d6b6e3/tumblr_owny6gA9Xf1swpixeo1_250.jpg
     subfolderitems:
 
       - name: reclaimed-oak-double-bed-oil-finish-l216-x-w162-x
@@ -1274,7 +1275,7 @@ Produktai:
 
   - baldo_tipas: Wardrobes
     class: wardrobes
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/85a8883fc886b91d415c449aead79fbb/tumblr_p02s1s2b4o1swpixeo1_250.jpg
     subfolderitems:
       - name: plywood-wardrobe
         product: plywood-wardrobe
@@ -1456,7 +1457,7 @@ Produktai:
 
   - baldo_tipas: Kitchens
     class: kitchens
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/63903507daf33801bd544c67595650b1/tumblr_osikxjfMzW1swpixeo1_250.jpg
     subfolderitems:
       
       - name: white-kitchen-outside-compact-hpl-inside
@@ -1568,7 +1569,7 @@ Produktai:
 
   - baldo_tipas: Bookshelfs
     class: bookshelfs
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/b653305d97590790bef86ba7436d4c84/tumblr_nu5jc0ErPO1swpixeo1_250.jpg
     subfolderitems:
       
       - name: bookshelf
@@ -1679,7 +1680,7 @@ Produktai:
 
   - baldo_tipas: Projects
     class: project
-    thumb: img/2.jpg
+    thumb: http://78.media.tumblr.com/b62293237dcf958db893bfee7191e179/tumblr_nnvkbjM0ga1swpixeo1_250.jpg
     subfolderitems:
       
 

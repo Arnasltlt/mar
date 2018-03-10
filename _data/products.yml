@@ -661,7 +661,7 @@ Produktai:
 
   - baldo_tipas: Cabinets
     class: cabinets
-    thumb: http://78.media.tumblr.com/a094765f0b94d0a53d5bd62b947ab04d/tumblr_oqrrpr7Cdl1swpixeo2_250.jpg
+    thumb: http://78.media.tumblr.com/ee20f93fde8b7c4299ea23747b1db01a/tumblr_npmq14uR5k1swpixeo1_250.jpg
     subfolderitems:
 
       - name: old-window-display-cabinet-h178-x-w104-x-d45-cm
@@ -1090,12 +1090,41 @@ Produktai:
           - image: http://78.media.tumblr.com/8460ba1b83a57d8f9ba4e1bab0a14ac9/tumblr_n3gqmwj2fW1swpixeo8_1280.jpg
             image-small: http://78.media.tumblr.com/8460ba1b83a57d8f9ba4e1bab0a14ac9/tumblr_n3gqmwj2fW1swpixeo8_250.jpg
             caption:
-
+      - name: residue-credenza
+        product: residue-credenza
+        thumbnail: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_250.jpg
+        description: "Residue Credenza"
+        Nuotraukos:
+          
+          - image: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_1280.jpg
+            image-small: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/01a0a22436ef872d364d4d7f7aa5be53/tumblr_mx6fs4VJjO1swpixeo2_1280.jpg
+            image-small: http://78.media.tumblr.com/01a0a22436ef872d364d4d7f7aa5be53/tumblr_mx6fs4VJjO1swpixeo2_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/8818612ca594d859a5d7bb5b6bb63b05/tumblr_mx6fs4VJjO1swpixeo3_1280.jpg
+            image-small: http://78.media.tumblr.com/8818612ca594d859a5d7bb5b6bb63b05/tumblr_mx6fs4VJjO1swpixeo3_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/33ce67566bf16953d21a44cd120e89fd/tumblr_mx6fs4VJjO1swpixeo4_1280.jpg
+            image-small: http://78.media.tumblr.com/33ce67566bf16953d21a44cd120e89fd/tumblr_mx6fs4VJjO1swpixeo4_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/bd82aff470b5560934ad382142f4cda0/tumblr_mx6fs4VJjO1swpixeo5_1280.jpg
+            image-small: http://78.media.tumblr.com/bd82aff470b5560934ad382142f4cda0/tumblr_mx6fs4VJjO1swpixeo5_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/b762a7bdda83d7d6e03907383c1a3fb3/tumblr_mx6fs4VJjO1swpixeo6_1280.jpg
+            image-small: http://78.media.tumblr.com/b762a7bdda83d7d6e03907383c1a3fb3/tumblr_mx6fs4VJjO1swpixeo6_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/40f478d6c4c08c5e3eb34b068dbaab94/tumblr_mx6fs4VJjO1swpixeo7_1280.jpg
+            image-small: http://78.media.tumblr.com/40f478d6c4c08c5e3eb34b068dbaab94/tumblr_mx6fs4VJjO1swpixeo7_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/7cb7e77556e925f48736ae2f59f0860b/tumblr_mx6fs4VJjO1swpixeo8_1280.jpg
+            image-small: http://78.media.tumblr.com/7cb7e77556e925f48736ae2f59f0860b/tumblr_mx6fs4VJjO1swpixeo8_250.jpg
+            caption: 
 # CHAIRS 
 
   - baldo_tipas: Chairs
     class: chairs
-    thumb: http://78.media.tumblr.com/acfb915edf28243f23c5b91a7fb5c77e/tumblr_o66ybgFgag1swpixeo1_250.jpg
+    thumb: http://78.media.tumblr.com/5a5d98233a34838105de2a9e4d30c7d9/tumblr_n8ozv0YYRw1swpixeo1_250.jpg
     subfolderitems:
       - name: counter-stool-plywood-h60-cm
         product: counter-stool-plywood-h60-cm
@@ -1146,7 +1175,8 @@ Produktai:
             caption: 
           - image: http://78.media.tumblr.com/feec75bf8624867279ce0b29dd5fc483/tumblr_o3awnvePS61swpixeo8_1280.jpg
             image-small: http://78.media.tumblr.com/feec75bf8624867279ce0b29dd5fc483/tumblr_o3awnvePS61swpixeo8_250.jpg
-            caption: 
+            caption:
+
       - name: drawers-unit-with-burned-wood
         product: drawers-unit-with-burned-wood
         thumbnail: http://78.media.tumblr.com/34a4c8022d5f952a7ade97aa1d927adb/tumblr_nmomd66ag11swpixeo1_250.jpg
@@ -1270,6 +1300,66 @@ Produktai:
           - image: http://78.media.tumblr.com/630628d06b7bff33a81edb49d3db84e1/tumblr_owny6gA9Xf1swpixeo4_r1_1280.jpg
             image-small: http://78.media.tumblr.com/630628d06b7bff33a81edb49d3db84e1/tumblr_owny6gA9Xf1swpixeo4_r1_250.jpg
             caption: 
+      - name: nida-bed
+        product: nida-bed
+        thumbnail: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_250.jpg
+        description: "NIDA Bed"
+        Nuotraukos:
+          
+          - image: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_1280.jpg
+            image-small: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/a5ac9b0db33d2cdd5f18c6f56450537a/tumblr_nflbcbyTxZ1swpixeo2_1280.jpg
+            image-small: http://78.media.tumblr.com/a5ac9b0db33d2cdd5f18c6f56450537a/tumblr_nflbcbyTxZ1swpixeo2_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/f9cf8a8e5788e3cbce2dc30f51806483/tumblr_nflbcbyTxZ1swpixeo3_1280.jpg
+            image-small: http://78.media.tumblr.com/f9cf8a8e5788e3cbce2dc30f51806483/tumblr_nflbcbyTxZ1swpixeo3_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/e4d23b02295d40d7c5475e1ab325581c/tumblr_nflbcbyTxZ1swpixeo4_1280.jpg
+            image-small: http://78.media.tumblr.com/e4d23b02295d40d7c5475e1ab325581c/tumblr_nflbcbyTxZ1swpixeo4_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/fd33b3f68c345d7eafbdc0077a23a6e1/tumblr_nflbcbyTxZ1swpixeo5_1280.jpg
+            image-small: http://78.media.tumblr.com/fd33b3f68c345d7eafbdc0077a23a6e1/tumblr_nflbcbyTxZ1swpixeo5_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/bcc0ff320bdea61afb25a2c147c16e23/tumblr_nflbcbyTxZ1swpixeo6_1280.jpg
+            image-small: http://78.media.tumblr.com/bcc0ff320bdea61afb25a2c147c16e23/tumblr_nflbcbyTxZ1swpixeo6_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/362a93102373c127702d4baf52542e93/tumblr_nflbcbyTxZ1swpixeo7_1280.jpg
+            image-small: http://78.media.tumblr.com/362a93102373c127702d4baf52542e93/tumblr_nflbcbyTxZ1swpixeo7_250.jpg
+            caption: 
+      - name: bed
+        product: bed
+        thumbnail: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_250.jpg
+        description: "Bed"
+        Nuotraukos:
+          
+          - image: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_1280.jpg
+            image-small: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/139a5b37b4c5181e05522ee21dbf0a69/tumblr_muzfkiaRAT1swpixeo2_1280.jpg
+            image-small: http://78.media.tumblr.com/139a5b37b4c5181e05522ee21dbf0a69/tumblr_muzfkiaRAT1swpixeo2_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/8da6ca1720eef1368b894e593a92b298/tumblr_muzfkiaRAT1swpixeo3_1280.jpg
+            image-small: http://78.media.tumblr.com/8da6ca1720eef1368b894e593a92b298/tumblr_muzfkiaRAT1swpixeo3_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/98978298b2aba91935fbf55e2354c6b9/tumblr_muzfkiaRAT1swpixeo4_1280.jpg
+            image-small: http://78.media.tumblr.com/98978298b2aba91935fbf55e2354c6b9/tumblr_muzfkiaRAT1swpixeo4_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/b8f43da37a6528ba40905d74f48d9230/tumblr_muzfkiaRAT1swpixeo5_r1_1280.jpg
+            image-small: http://78.media.tumblr.com/b8f43da37a6528ba40905d74f48d9230/tumblr_muzfkiaRAT1swpixeo5_r1_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/54aea09c2326bd0891c05d874722c93e/tumblr_muzfkiaRAT1swpixeo6_1280.jpg
+            image-small: http://78.media.tumblr.com/54aea09c2326bd0891c05d874722c93e/tumblr_muzfkiaRAT1swpixeo6_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/a864ef993676b69b91606930b6c19fc5/tumblr_muzfkiaRAT1swpixeo7_1280.jpg
+            image-small: http://78.media.tumblr.com/a864ef993676b69b91606930b6c19fc5/tumblr_muzfkiaRAT1swpixeo7_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/0b9c46d3d2b7328436e01dbd70f6d032/tumblr_muzfkiaRAT1swpixeo8_1280.jpg
+            image-small: http://78.media.tumblr.com/0b9c46d3d2b7328436e01dbd70f6d032/tumblr_muzfkiaRAT1swpixeo8_250.jpg
+            caption: 
+          - image: http://78.media.tumblr.com/3c6516b28fde7beb9fa005f378ba0e68/tumblr_muzfkiaRAT1swpixeo9_1280.jpg
+            image-small: http://78.media.tumblr.com/3c6516b28fde7beb9fa005f378ba0e68/tumblr_muzfkiaRAT1swpixeo9_250.jpg
+            caption:  
 
 # Wardrobes
 
@@ -1391,67 +1481,8 @@ Produktai:
           - image: http://78.media.tumblr.com/df033c95bb2013c7d3b05277994196ac/tumblr_nji0b1BdtX1swpixeo9_1280.jpg
             image-small: http://78.media.tumblr.com/df033c95bb2013c7d3b05277994196ac/tumblr_nji0b1BdtX1swpixeo9_250.jpg
             caption: 
+             
 
-      - name: nida-bed
-        product: nida-bed
-        thumbnail: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_250.jpg
-        description: "NIDA Bed"
-        Nuotraukos:
-          
-          - image: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_1280.jpg
-            image-small: http://78.media.tumblr.com/4abdd7bc1b1c571daefe541ece397dff/tumblr_nflbcbyTxZ1swpixeo1_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/a5ac9b0db33d2cdd5f18c6f56450537a/tumblr_nflbcbyTxZ1swpixeo2_1280.jpg
-            image-small: http://78.media.tumblr.com/a5ac9b0db33d2cdd5f18c6f56450537a/tumblr_nflbcbyTxZ1swpixeo2_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/f9cf8a8e5788e3cbce2dc30f51806483/tumblr_nflbcbyTxZ1swpixeo3_1280.jpg
-            image-small: http://78.media.tumblr.com/f9cf8a8e5788e3cbce2dc30f51806483/tumblr_nflbcbyTxZ1swpixeo3_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/e4d23b02295d40d7c5475e1ab325581c/tumblr_nflbcbyTxZ1swpixeo4_1280.jpg
-            image-small: http://78.media.tumblr.com/e4d23b02295d40d7c5475e1ab325581c/tumblr_nflbcbyTxZ1swpixeo4_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/fd33b3f68c345d7eafbdc0077a23a6e1/tumblr_nflbcbyTxZ1swpixeo5_1280.jpg
-            image-small: http://78.media.tumblr.com/fd33b3f68c345d7eafbdc0077a23a6e1/tumblr_nflbcbyTxZ1swpixeo5_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/bcc0ff320bdea61afb25a2c147c16e23/tumblr_nflbcbyTxZ1swpixeo6_1280.jpg
-            image-small: http://78.media.tumblr.com/bcc0ff320bdea61afb25a2c147c16e23/tumblr_nflbcbyTxZ1swpixeo6_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/362a93102373c127702d4baf52542e93/tumblr_nflbcbyTxZ1swpixeo7_1280.jpg
-            image-small: http://78.media.tumblr.com/362a93102373c127702d4baf52542e93/tumblr_nflbcbyTxZ1swpixeo7_250.jpg
-            caption: 
-      - name: bed
-        product: bed
-        thumbnail: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_250.jpg
-        description: "Bed"
-        Nuotraukos:
-          
-          - image: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_1280.jpg
-            image-small: http://78.media.tumblr.com/3182aac30bdd3da4a4ad4cde884acd1d/tumblr_muzfkiaRAT1swpixeo1_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/139a5b37b4c5181e05522ee21dbf0a69/tumblr_muzfkiaRAT1swpixeo2_1280.jpg
-            image-small: http://78.media.tumblr.com/139a5b37b4c5181e05522ee21dbf0a69/tumblr_muzfkiaRAT1swpixeo2_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/8da6ca1720eef1368b894e593a92b298/tumblr_muzfkiaRAT1swpixeo3_1280.jpg
-            image-small: http://78.media.tumblr.com/8da6ca1720eef1368b894e593a92b298/tumblr_muzfkiaRAT1swpixeo3_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/98978298b2aba91935fbf55e2354c6b9/tumblr_muzfkiaRAT1swpixeo4_1280.jpg
-            image-small: http://78.media.tumblr.com/98978298b2aba91935fbf55e2354c6b9/tumblr_muzfkiaRAT1swpixeo4_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/b8f43da37a6528ba40905d74f48d9230/tumblr_muzfkiaRAT1swpixeo5_r1_1280.jpg
-            image-small: http://78.media.tumblr.com/b8f43da37a6528ba40905d74f48d9230/tumblr_muzfkiaRAT1swpixeo5_r1_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/54aea09c2326bd0891c05d874722c93e/tumblr_muzfkiaRAT1swpixeo6_1280.jpg
-            image-small: http://78.media.tumblr.com/54aea09c2326bd0891c05d874722c93e/tumblr_muzfkiaRAT1swpixeo6_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/a864ef993676b69b91606930b6c19fc5/tumblr_muzfkiaRAT1swpixeo7_1280.jpg
-            image-small: http://78.media.tumblr.com/a864ef993676b69b91606930b6c19fc5/tumblr_muzfkiaRAT1swpixeo7_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/0b9c46d3d2b7328436e01dbd70f6d032/tumblr_muzfkiaRAT1swpixeo8_1280.jpg
-            image-small: http://78.media.tumblr.com/0b9c46d3d2b7328436e01dbd70f6d032/tumblr_muzfkiaRAT1swpixeo8_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/3c6516b28fde7beb9fa005f378ba0e68/tumblr_muzfkiaRAT1swpixeo9_1280.jpg
-            image-small: http://78.media.tumblr.com/3c6516b28fde7beb9fa005f378ba0e68/tumblr_muzfkiaRAT1swpixeo9_250.jpg
-            caption:               
 
 # Kitchens
 
@@ -1569,12 +1600,12 @@ Produktai:
 
   - baldo_tipas: Bookshelfs
     class: bookshelfs
-    thumb: http://78.media.tumblr.com/b653305d97590790bef86ba7436d4c84/tumblr_nu5jc0ErPO1swpixeo1_250.jpg
+    thumb: http://78.media.tumblr.com/a77e822df90ec6153c9a4d73c6b8fd55/tumblr_nu5jc0ErPO1swpixeo2_250.jpg
     subfolderitems:
       
       - name: bookshelf
         product: bookshelf
-        thumbnail: http://78.media.tumblr.com/b653305d97590790bef86ba7436d4c84/tumblr_nu5jc0ErPO1swpixeo1_250.jpg
+        thumbnail: http://78.media.tumblr.com/a77e822df90ec6153c9a4d73c6b8fd55/tumblr_nu5jc0ErPO1swpixeo2_250.jpg
         description: "Bookshelf"
         Nuotraukos:
           
@@ -1645,36 +1676,7 @@ Produktai:
           - image: http://78.media.tumblr.com/a4405076eec59af21aa45a1b1ea7811e/tumblr_mxa9jaraH41swpixeo7_1280.jpg
             image-small: http://78.media.tumblr.com/a4405076eec59af21aa45a1b1ea7811e/tumblr_mxa9jaraH41swpixeo7_250.jpg
             caption: 
-      - name: residue-credenza
-        product: residue-credenza
-        thumbnail: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_250.jpg
-        description: "Residue Credenza"
-        Nuotraukos:
-          
-          - image: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_1280.jpg
-            image-small: http://78.media.tumblr.com/cdf1adcd9fba930ccc06cbb88205322c/tumblr_mx6fs4VJjO1swpixeo1_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/01a0a22436ef872d364d4d7f7aa5be53/tumblr_mx6fs4VJjO1swpixeo2_1280.jpg
-            image-small: http://78.media.tumblr.com/01a0a22436ef872d364d4d7f7aa5be53/tumblr_mx6fs4VJjO1swpixeo2_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/8818612ca594d859a5d7bb5b6bb63b05/tumblr_mx6fs4VJjO1swpixeo3_1280.jpg
-            image-small: http://78.media.tumblr.com/8818612ca594d859a5d7bb5b6bb63b05/tumblr_mx6fs4VJjO1swpixeo3_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/33ce67566bf16953d21a44cd120e89fd/tumblr_mx6fs4VJjO1swpixeo4_1280.jpg
-            image-small: http://78.media.tumblr.com/33ce67566bf16953d21a44cd120e89fd/tumblr_mx6fs4VJjO1swpixeo4_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/bd82aff470b5560934ad382142f4cda0/tumblr_mx6fs4VJjO1swpixeo5_1280.jpg
-            image-small: http://78.media.tumblr.com/bd82aff470b5560934ad382142f4cda0/tumblr_mx6fs4VJjO1swpixeo5_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/b762a7bdda83d7d6e03907383c1a3fb3/tumblr_mx6fs4VJjO1swpixeo6_1280.jpg
-            image-small: http://78.media.tumblr.com/b762a7bdda83d7d6e03907383c1a3fb3/tumblr_mx6fs4VJjO1swpixeo6_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/40f478d6c4c08c5e3eb34b068dbaab94/tumblr_mx6fs4VJjO1swpixeo7_1280.jpg
-            image-small: http://78.media.tumblr.com/40f478d6c4c08c5e3eb34b068dbaab94/tumblr_mx6fs4VJjO1swpixeo7_250.jpg
-            caption: 
-          - image: http://78.media.tumblr.com/7cb7e77556e925f48736ae2f59f0860b/tumblr_mx6fs4VJjO1swpixeo8_1280.jpg
-            image-small: http://78.media.tumblr.com/7cb7e77556e925f48736ae2f59f0860b/tumblr_mx6fs4VJjO1swpixeo8_250.jpg
-            caption: 
+
 
 # Projects
 
@@ -1691,35 +1693,35 @@ Produktai:
         Nuotraukos:
           
           - image: http://78.media.tumblr.com/b62293237dcf958db893bfee7191e179/tumblr_nnvkbjM0ga1swpixeo1_1280.jpg
-          - image-small: http://78.media.tumblr.com/b62293237dcf958db893bfee7191e179/tumblr_nnvkbjM0ga1swpixeo1_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/b62293237dcf958db893bfee7191e179/tumblr_nnvkbjM0ga1swpixeo1_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/6fafc9847ac41a60c06c630ec7865c58/tumblr_nnvkbjM0ga1swpixeo3_1280.jpg
-          - image-small: http://78.media.tumblr.com/6fafc9847ac41a60c06c630ec7865c58/tumblr_nnvkbjM0ga1swpixeo3_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/6fafc9847ac41a60c06c630ec7865c58/tumblr_nnvkbjM0ga1swpixeo3_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/3f3a214c49e2eb8d98ae42f8d0ea26df/tumblr_nnvkbjM0ga1swpixeo2_1280.jpg
-          - image-small: http://78.media.tumblr.com/3f3a214c49e2eb8d98ae42f8d0ea26df/tumblr_nnvkbjM0ga1swpixeo2_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/3f3a214c49e2eb8d98ae42f8d0ea26df/tumblr_nnvkbjM0ga1swpixeo2_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/72506e267f10345e8f4c96b2ca6b815d/tumblr_nnvkbjM0ga1swpixeo4_r1_1280.jpg
-          - image-small: http://78.media.tumblr.com/72506e267f10345e8f4c96b2ca6b815d/tumblr_nnvkbjM0ga1swpixeo4_r1_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/72506e267f10345e8f4c96b2ca6b815d/tumblr_nnvkbjM0ga1swpixeo4_r1_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/393348af6b3684d54895a16edc443918/tumblr_nnvkbjM0ga1swpixeo5_r1_1280.jpg
-          - image-small: http://78.media.tumblr.com/393348af6b3684d54895a16edc443918/tumblr_nnvkbjM0ga1swpixeo5_r1_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/393348af6b3684d54895a16edc443918/tumblr_nnvkbjM0ga1swpixeo5_r1_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/715c09ff96aa4b3bd666ce014c3fcdec/tumblr_nnvkbjM0ga1swpixeo6_1280.jpg
-          - image-small: http://78.media.tumblr.com/715c09ff96aa4b3bd666ce014c3fcdec/tumblr_nnvkbjM0ga1swpixeo6_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/715c09ff96aa4b3bd666ce014c3fcdec/tumblr_nnvkbjM0ga1swpixeo6_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/e0ac7eccb4de4a7ec37431600fc981c1/tumblr_nnvkbjM0ga1swpixeo8_1280.jpg
-          - image-small: http://78.media.tumblr.com/e0ac7eccb4de4a7ec37431600fc981c1/tumblr_nnvkbjM0ga1swpixeo8_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/e0ac7eccb4de4a7ec37431600fc981c1/tumblr_nnvkbjM0ga1swpixeo8_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/5e8bb12f337f481638ba1d8383c9f606/tumblr_nnvkbjM0ga1swpixeo7_1280.jpg
-          - image-small: http://78.media.tumblr.com/5e8bb12f337f481638ba1d8383c9f606/tumblr_nnvkbjM0ga1swpixeo7_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/5e8bb12f337f481638ba1d8383c9f606/tumblr_nnvkbjM0ga1swpixeo7_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/107c67db6ef3bde54ec0528b3441af48/tumblr_nnvkbjM0ga1swpixeo9_r1_1280.jpg
-          - image-small: http://78.media.tumblr.com/107c67db6ef3bde54ec0528b3441af48/tumblr_nnvkbjM0ga1swpixeo9_r1_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/107c67db6ef3bde54ec0528b3441af48/tumblr_nnvkbjM0ga1swpixeo9_r1_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/3f5e0eb13a4be8374dc28375f771ce08/tumblr_nnvkbjM0ga1swpixeo10_1280.jpg
-          - image-small: http://78.media.tumblr.com/3f5e0eb13a4be8374dc28375f771ce08/tumblr_nnvkbjM0ga1swpixeo10_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/3f5e0eb13a4be8374dc28375f771ce08/tumblr_nnvkbjM0ga1swpixeo10_250.jpg
+            caption: 
       - name: easel
         product: easel
         thumbnail: http://78.media.tumblr.com/857c37bb174bb55e6214687a77e6a99d/tumblr_nf8ff94Hb31swpixeo1_250.jpg
@@ -1930,30 +1932,30 @@ Produktai:
         Nuotraukos:
           
           - image: http://78.media.tumblr.com/c28e7cbe4efcfb317d8b418818b08603/tumblr_mqe0jz7cPs1swpixeo1_1280.jpg
-          - image-small: http://78.media.tumblr.com/c28e7cbe4efcfb317d8b418818b08603/tumblr_mqe0jz7cPs1swpixeo1_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/c28e7cbe4efcfb317d8b418818b08603/tumblr_mqe0jz7cPs1swpixeo1_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/1df62d67617fd0941efd0ed4748d6266/tumblr_mqe0jz7cPs1swpixeo2_1280.jpg
-          - image-small: http://78.media.tumblr.com/1df62d67617fd0941efd0ed4748d6266/tumblr_mqe0jz7cPs1swpixeo2_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/1df62d67617fd0941efd0ed4748d6266/tumblr_mqe0jz7cPs1swpixeo2_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/f95c87dfcff4dd0721c1a5ad14fea0ff/tumblr_mqe0jz7cPs1swpixeo3_1280.jpg
-          - image-small: http://78.media.tumblr.com/f95c87dfcff4dd0721c1a5ad14fea0ff/tumblr_mqe0jz7cPs1swpixeo3_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/f95c87dfcff4dd0721c1a5ad14fea0ff/tumblr_mqe0jz7cPs1swpixeo3_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/e98b4cfd15184420959e9f2d8d708252/tumblr_mqe0jz7cPs1swpixeo4_1280.jpg
-          - image-small: http://78.media.tumblr.com/e98b4cfd15184420959e9f2d8d708252/tumblr_mqe0jz7cPs1swpixeo4_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/e98b4cfd15184420959e9f2d8d708252/tumblr_mqe0jz7cPs1swpixeo4_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/e5e5b5131d228ffa1e0ec321ea27ae01/tumblr_mqe0jz7cPs1swpixeo5_1280.jpg
-          - image-small: http://78.media.tumblr.com/e5e5b5131d228ffa1e0ec321ea27ae01/tumblr_mqe0jz7cPs1swpixeo5_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/e5e5b5131d228ffa1e0ec321ea27ae01/tumblr_mqe0jz7cPs1swpixeo5_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/5982c2e1e09a42d2a30ee1099c60c258/tumblr_mqe0jz7cPs1swpixeo6_1280.jpg
-          - image-small: http://78.media.tumblr.com/5982c2e1e09a42d2a30ee1099c60c258/tumblr_mqe0jz7cPs1swpixeo6_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/5982c2e1e09a42d2a30ee1099c60c258/tumblr_mqe0jz7cPs1swpixeo6_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/28ea876282db07dd69853af994a4c17c/tumblr_mqe0jz7cPs1swpixeo7_1280.jpg
-          - image-small: http://78.media.tumblr.com/28ea876282db07dd69853af994a4c17c/tumblr_mqe0jz7cPs1swpixeo7_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/28ea876282db07dd69853af994a4c17c/tumblr_mqe0jz7cPs1swpixeo7_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/b3d46d849da1ebd524f9a5c32683f465/tumblr_mqe0jz7cPs1swpixeo8_1280.jpg
-          - image-small: http://78.media.tumblr.com/b3d46d849da1ebd524f9a5c32683f465/tumblr_mqe0jz7cPs1swpixeo8_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/b3d46d849da1ebd524f9a5c32683f465/tumblr_mqe0jz7cPs1swpixeo8_250.jpg
+            caption: 
           - image: http://78.media.tumblr.com/f86ed39c35b47527478ec504573d7a52/tumblr_mqe0jz7cPs1swpixeo9_1280.jpg
-          - image-small: http://78.media.tumblr.com/f86ed39c35b47527478ec504573d7a52/tumblr_mqe0jz7cPs1swpixeo9_250.jpg
-          - caption: 
+            image-small: http://78.media.tumblr.com/f86ed39c35b47527478ec504573d7a52/tumblr_mqe0jz7cPs1swpixeo9_250.jpg
+            caption: 
 

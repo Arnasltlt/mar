@@ -49,14 +49,20 @@ body {
 
 .empty.two {
 	order: 3;
+
 }
 
 .social {
-	display: flex;
-	width: 120px;
+	display: block;
+	width: 30px;
 	height: 120px;
 	margin-top: 50px;
-/*	right:100px;*/
+  	overflow: hidden;
+  	position: fixed;
+  	right: 0;
+  	padding: 20px;
+  	border-style: outset;
+  	border-radius: 20px 5px 5px 20px;
 
 }
 
@@ -67,9 +73,6 @@ body {
  	padding: 5px;
 }
 
-img#ii {
-	margin-left: 8px;
-}
 
 #instagram {
 	display: none;

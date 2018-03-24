@@ -31,5 +31,6 @@ h2.paslaugos {
 .img {
 	width: 100px;
 	height: 100px;
-	padding: 25px;
+	padding: 35px;
+	object-fit: cover;
 }

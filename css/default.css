@@ -5,27 +5,4 @@
 {% include css/common.css %}
 {% include css/nav.css %}
 {% include css/info.css %}
-{% include css/furniture.css %}
 {% include css/products.css %} 
-
-
-@media screen and (max-width: 600px) {
-
-.nav.custom_baldai {
-	margin: 0;
-}
-
-{% include css/mobile.css %} 
-
-}
-
-img.img.galerija {
-	display: none;
-}
-
-@media screen and (min-width: 601px) and (max-width: 1099px) {
-}
-
-@media screen and (min-width: 1100px) {
-
-}

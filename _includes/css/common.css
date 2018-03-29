@@ -45,15 +45,13 @@ div.nav.custom {
 
 .social {
 	display: block;
-	width: 30px;
+	width: 23px;
 	height: 120px;
 	margin-top: 20%;
   	overflow: hidden;
   	position: fixed;
-  	right: 0;
+  	right: 2px;
   	padding: 9px;
-  	border-style: outset;
-  	border-radius: 20px 5px 5px 20px;
 
 }
 

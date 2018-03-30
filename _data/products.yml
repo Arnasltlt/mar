@@ -753,11 +753,6 @@ Produktai:
           - image: http://78.media.tumblr.com/a0585424a92ba282c63a0acd3a421033/tumblr_nhefueTCTW1swpixeo8_1280.jpg
             image-small: http://78.media.tumblr.com/a0585424a92ba282c63a0acd3a421033/tumblr_nhefueTCTW1swpixeo8_250.jpg
             caption:
-
-  - baldo_tipas: Wardrobes
-    class: wardrobes
-    thumb: http://78.media.tumblr.com/85a8883fc886b91d415c449aead79fbb/tumblr_p02s1s2b4o1swpixeo1_250.jpg
-    subfolderitems:
       - name: plywood-wardrobe
         product: plywood-wardrobe
         thumbnail: http://78.media.tumblr.com/85a8883fc886b91d415c449aead79fbb/tumblr_p02s1s2b4o1swpixeo1_250.jpg
@@ -841,6 +836,7 @@ Produktai:
           - image: http://78.media.tumblr.com/6a762feaf7b5b49a02f26e549f706fb3/tumblr_nm5qwjuxhN1swpixeo7_1280.jpg
             image-small: http://78.media.tumblr.com/6a762feaf7b5b49a02f26e549f706fb3/tumblr_nm5qwjuxhN1swpixeo7_250.jpg
             caption:   
+
       - name: sideboard-1929
         product: sideboard-1929
         thumbnail: http://78.media.tumblr.com/4e0142289a9ec82ee00d82abdd5d6ab6/tumblr_neluaagumZ1swpixeo8_r1_250.jpg
@@ -905,6 +901,7 @@ Produktai:
           - image: http://78.media.tumblr.com/fb6d6b46fedb16751e66f2ddbb92326a/tumblr_n4oz95dnAT1swpixeo10_r1_1280.jpg
             image-small: http://78.media.tumblr.com/fb6d6b46fedb16751e66f2ddbb92326a/tumblr_n4oz95dnAT1swpixeo10_r1_250.jpg
             caption: 
+              
       - name: 45-sideboard
         product: 45-sideboard
         thumbnail: http://78.media.tumblr.com/645620347a2eb0fc642ccaeec415b6ad/tumblr_n480reYSyQ1swpixeo1_250.jpg

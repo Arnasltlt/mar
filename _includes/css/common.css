@@ -45,20 +45,20 @@ div.nav.custom {
 
 .social {
 	display: block;
-	width: 23px;
+	width: 20px;
 	height: 120px;
 	margin-top: 20%;
 /*  	overflow: hidden;*/
   	position: fixed;
-  	right: 15px;
+  	right: 1px;
   	padding: 9px;
 
 }
 
 
 .icons img {
-	height: 30px;
- 	width: 30px;
+	height: 15px;
+ 	width: 15px;
  	padding: 5px;
 }
 

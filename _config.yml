@@ -1,14 +1,3 @@
 markdown: kramdown
 baseurl: /mar
 exclude: ['README.md']
-
-staticman:
-  allowedFields: ['name', 'title', 'description', 'e-mail']
-  branch: gh-pages
-  commitMessage: "An e-mail has been sent"
-  filename: "email {fields.title}"
-  format: yml
-  moderation: false
-  path: "_data/email"
-  requiredFields: ['name','title', 'description', 'e-mail']
-  name: "mar.lt"

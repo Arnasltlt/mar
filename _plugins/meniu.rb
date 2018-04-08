@@ -8,11 +8,11 @@ require 'active_support/all'
 
 # Pass in the app key and table name
 
-@table = @client.table("appcYcJWTWr6eedym", "Produktai")
+@table = @client.table("appcYcJWTWr6eedym", "Homepage")
 @records = @table.records
 
 # Change the filename here below but make sure it's in the _data folder.
-File.open("_data/produktai.json", "w") do |f|
+File.open("_data/meniu.json", "w") do |f|
     data = @records.map { |record| record.attributes }
     f.write(data.to_json)
 end

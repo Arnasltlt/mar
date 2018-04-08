@@ -4,4 +4,7 @@ source 'https://rubygems.org'
    gem "jekyll-coffeescript"
    gem "jekyll-assets"
    gem "airtable"
+   gem "json"
+   gem 'bigdecimal'
+   gem 'activesupport'
  end

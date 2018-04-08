@@ -1,0 +1,27 @@
+
+
+
+	<div class="inner_div">
+
+
+	 		{% for item in site.data.meniu %}
+	 		 	{% if item.kodas == {{include.content}} %}
+	 		 	<div id="{{item.kodas}}" class="nav custom">
+	 		 	
+
+	 		 		
+	 		 		{% for entry in site.data.produktai %}
+		 		 		{% if entry.baldas == {{include.content}} %}
+		          				<ul class="nav custom_baldai {{entry.baldas}} ">
+		          					<li class="item {{entry.kodas}}">
+									<a href="{{site.baseurl}}/products.html?{{entry.kodas}}"><img class="img {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}" alt="{{entry.pavadinimas}} nuotrauka"></a><br>
+									<span class="pavadinimas">{{entry.pavadinimas}}</span> 
+									</li>
+		          				</ul>
+		          		{% endif %}		
+	          		{% endfor %}
+	          		
+	          	</div>
+	        	{% endif %}	
+	        {% endfor %} 
+	</div>

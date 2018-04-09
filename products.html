@@ -17,20 +17,16 @@ layout: default
           $('.placeholder').show();   
       }
 
-  {% if site.data.products.Produktai[0] %}
-  {% for item in site.data.products.Produktai %}
+  
+  {% for item in site.data.produktai %}
 
-        {% if item.subfolderitems[0] %}
-        {% for entry in item.subfolderitems %}
 
-          else if (location.search == "?{{entry.product}}") {
-              $('.{{entry.product}}').show();
+          else if (location.search == "?{{item.kodas}}") {
+              $('.{{item.kodas}}').show();
                
             }
  
-        {% endfor %}
-        {% endif %}
   {% endfor %}
-  {% endif %} 
+
 
 </script>

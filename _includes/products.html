@@ -1,44 +1,35 @@
 
 <div class="products full">
 
+
 	<div>
-	{% if site.data.products.Produktai[0] %}
-	<!-- Checks if there are items on this level -->
-	  {% for item in site.data.products.Produktai %}
-	  <!-- Opens the "folder" Produktai and for each entry let's you do what you want. I skipped this step -->
-	      {% if item.subfolderitems[0] %}       
-	          	{% for entry in item.subfolderitems %}
-	          	<!-- Checks the Sub-folder and for each item does something (Entry = variable you can name) -->
-	        <div class="{{entry.product}} baldas">  	
-	          	<h2 class="prodpavadinimas"> {{ entry.name }} </h2>
+	  {% for item in site.data.produktai %}
+	        <div class="{{item.kodas}} baldas">  	
+	          	<h2 class="prodpavadinimas"> {{ item.pavadinimas }} </h2>
 	          	<div class="pic_and_desc">
 	          			
 	             			
 		            <div> 			
-		                {% if entry.Nuotraukos[0] %}
+		                
 		                  <ul class="nav product gallery">
-		                  {% for subentry in entry.Nuotraukos %}
-		                      <li><a href="{{subentry.image}}" class="{{item.class}}" data-lightbox="{{entry.product}}" data-title="{{subentry.caption}}"><img class="img" src="{{subentry.image-small}}"></a> </li>
+		                  {% for entry in item.galerija %}
+		                      <li><a href="{{entry.url}}" class="{{entry.baldas}}" data-lightbox="{{item.kodas}}" data-title="{{item.pavadinimas}}"><img class="img" src="{{entry.thumbnails.large.url}}"></a> </li>
 		                  {% endfor %}
 		                  </ul>
-		                  {% endif %}
+		        
 		            </div>
-		            <!-- Nuotraukos baiges -->
 
-		   			<p class="aprasymas"> {{entry.description}} </p>
+		   			<p class="aprasymas"> {{item.aprasymas}} </p>
 		   		</div>
-		   		 <!-- Aprasymas su nuotraukomis baiges -->  
 		   	</div>
 		                  
 		                  
-	          {% endfor %}
+	  {% endfor %}
 	          	
 	       
-	      {% endif %}
-	    {% endfor %}
-	    <!-- Viskas baiges -->
-	{% endif %}
 	</div>
+
+
 
 </div>
 

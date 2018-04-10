@@ -27,6 +27,13 @@ li {
 	object-fit: cover;
 }
 
+.pro_img {
+	width: 150px;
+	height: 100px;
+	padding: 45px;
+	object-fit: cover;
+}
+
 .qoute {
 	text-align: center;
 }

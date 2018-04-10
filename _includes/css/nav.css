@@ -29,7 +29,7 @@ li {
 
 .pro_img {
 	width: 150px;
-	height: 100px;
+	height: auto;
 	padding: 45px;
 	object-fit: cover;
 }

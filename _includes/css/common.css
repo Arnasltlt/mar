@@ -97,18 +97,17 @@ div.nav.custom {
 
 	#info {
 		margin-top: 35px;
-		align-items:center;
 		margin-left: 10%;
-		padding-top: 20px;
 		text-align: left;
+		max-width: 100%;
+		margin-right: 10px;
 		}
 
 	.profile {
-		width: 300px;
+		width: 200px;
 		height: auto;
 		align-self: center;
         }
-
 
 
 }

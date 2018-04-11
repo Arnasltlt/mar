@@ -1,6 +1,7 @@
 #info {
-	align-items: center;
 	display: flex;
+	max-width:650%;
+	align-items: center;
 	margin-top: auto;
 	margin-right: 60px;
 
@@ -13,7 +14,13 @@
 
 .page {
 	display: flex;
+	flex-wrap: wrap;
 	align-items:center;
 	margin-top: 4%;
 
+}
+
+.profile {
+	width: 300px;
+	height: auto;
 }

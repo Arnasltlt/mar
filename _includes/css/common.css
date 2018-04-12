@@ -1,5 +1,5 @@
 body {
-	font-family: 'Proxima Nova', Georgia, sans-serif;
+	font-family: 'calibri', Georgia, sans-serif;
 }
 
 .Logo {
@@ -50,7 +50,7 @@ div.nav.custom {
 	margin-top: 20%;
 /*  	overflow: hidden;*/
   	position: fixed;
-  	right: 1px;
+  	right: 5px;
   	padding: 9px;
 
 }

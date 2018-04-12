@@ -1,13 +1,14 @@
 
 
-<div class="nav buttons"> 
+<div class="nav_buttons"> 
 	{% for item in site.data.meniu %}
 		<div class="element">	
 			<a href="{{site.baseurl}}/?{{item.kodas}}" class="button {{item.kodas}}">  {{item.name}} </a>
 			<br>
-			<a href="{{site.baseurl}}/?{{item.kodas}}"><img src="{{item.picture[0].thumbnails.large.url}}" class="img hgallery"></a>
-
-			<p> {{item.picture.url[0]}} </p>
+			<br>
+			<a href="{{site.baseurl}}/?{{item.kodas}}"><img src="{{item.picture[0].thumbnails.large.url}}" class="small_img hgallery"></a>
 		</div>
+			<p> {{item.picture.url[0]}} </p>
+		
 	{% endfor %}
 </div>

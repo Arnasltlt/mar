@@ -25,7 +25,8 @@ body {
     flex-wrap: wrap;
     margin: auto;
     text-align: center;
-    width: 70%;
+    width: 98%;
+    margin-top: 35px;
 
 }
 
@@ -48,6 +49,7 @@ body {
 	height: 100px;
 	object-fit: cover;
 	filter: grayscale(100%);
+	margin-top: 40px;
 
 }
 
@@ -80,17 +82,7 @@ div.nav.custom {
 
 }
 
-.social {
-	display: block;
-	width: 20px;
-	height: 120px;
-	margin-top: 20%;
-/*  	overflow: hidden;*/
-  	position: fixed;
-  	right: 5px;
-  	padding: 9px;
 
-}
 
 
 .icons img {
@@ -108,22 +100,63 @@ div.nav.custom {
 	display: none;
 }
 
+
+@media only screen and (min-width: 1100px) {
+
+	.nav_buttons {
+		justify-content: center;
+
+	}
+
+
+
+
+}
+
+@media only screen and (min-width: 601px) {
+
+	.nav_buttons {
+		justify-content: center;
+
+	}
+
+	.social {
+		display: block;
+	  /*  overflow: hidden;*/
+	  	position: fixed;
+	  	padding: 9px;
+	  	right: 0px;
+		flex-flow: column;
+		margin-top: 20%;
+		margin-bottom: 50%;
+
+	}
+}
+
+/*@media (max-width:1100px) and (min-width:602px) {
+    
+    .nav_buttons {
+        justify-content: flex-start;
+    }
+}​*/
+
 @media only screen and (max-width: 600px) {
 
 	body {
 		padding-bottom: 50px;
 	}
 
-	.social {
-		overflow: show;
+	body div.social {
 		background-color: #ffffff;
 		position: fixed;
-		bottom:0;
-		width: 100%;
-		right: initial;
+		bottom: 0px;
 		display: flex;
 		justify-content: space-around;
 		height: 50px;
+		z-index: 20;
+		overflow: hidden;
+		width: 100%;
+
 	}
 
 	.icons img {
@@ -146,8 +179,11 @@ div.nav.custom {
 		align-self: center;
         }
    	.nav_buttons {
-		width: 95%;
-		justify-content: center;
+		width: 99%;
+		justify-content: flex-start;
+		margin-bottom: 10%;
+		padding: 20px;
+		margin-left: 5%;
 
 	}
 	.element {
@@ -158,16 +194,6 @@ div.nav.custom {
 
 
 }
-
-@media only screen and (min-width: 1550px) {
-
-	.nav_buttons {
-		justify-content: center;
-
-	}
-
-}
-
 
 
 /*MAIN LOGO + SOCIAL ENDS*/

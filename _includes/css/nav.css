@@ -11,6 +11,14 @@ li {
 	text-align: center;
 }
 
+.inner_div {
+	margin:auto;
+	width: 50%;
+}
+
+div.nav.custom {
+	flex-wrap: wrap;
+}
 
 .pavadinimas {
 	width: 150px;

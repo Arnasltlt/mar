@@ -13,7 +13,7 @@ li {
 
 .inner_div {
 	margin:auto;
-	width: 50%;
+	width: 80%;
 }
 
 div.nav.custom {
@@ -28,12 +28,16 @@ div.nav.custom {
 
 }
 
+h2 {
+	font-weight: normal;
+	font-size: 1.3em;
+}
 
 .pro_img {
 	width: 150px;
 	height: auto;
 
-	padding: 45px 45px 5px 45px;
+	padding: 15px 45px 5px 45px;
 	object-fit: cover;
 }
 

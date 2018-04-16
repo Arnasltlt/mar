@@ -23,7 +23,7 @@ div.nav.custom {
 .pavadinimas {
 	width: 150px;
 	display: flex;
-	justify-content: center;
+	text-align: left;
 	margin: auto;
 
 }

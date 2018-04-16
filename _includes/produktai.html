@@ -1,6 +1,5 @@
 
 
-
 	<div class="inner_div">
 
 
@@ -15,7 +14,7 @@
 		          				<ul class="nav custom_baldai {{entry.baldas}} ">
 		          					<li class="item {{entry.kodas}}">
 									<a href="{{site.baseurl}}/products.html?{{entry.kodas}}"><img class="pro_img {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}" alt="{{entry.pavadinimas}} nuotrauka"></a><br>
-									<span class="pavadinimas">{{entry.pavadinimas}}</span> 
+									<a href="{{site.baseurl}}/products.html?{{entry.kodas}}"><span class="pavadinimas">{{entry.pavadinimas}}</span> </a>
 									</li>
 		          				</ul>
 		          		{% endif %}		

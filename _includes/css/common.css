@@ -81,8 +81,9 @@ div.nav.custom {
 	order: 3;
 
 }
-
-
+.grafija {
+	padding: 0px 20px 20px 20px;
+}
 
 
 .icons img {
@@ -98,6 +99,11 @@ div.nav.custom {
 
 #facebook {
 	display: none;
+}
+
+.aprasymas {
+	width: 50%;
+	text-align: left;
 }
 
 
@@ -120,6 +126,15 @@ div.nav.custom {
 
 	}
 
+	.nav.product.gallery {
+		margin: auto;
+		width: 500px;
+		justify-content: flex-start;
+		padding: 0px;
+		display: flex;
+
+}
+
 	.social {
 		display: block;
 	  /*  overflow: hidden;*/
@@ -131,6 +146,7 @@ div.nav.custom {
 		margin-bottom: 50%;
 
 	}
+
 }
 
 /*@media (max-width:1100px) and (min-width:602px) {
@@ -192,7 +208,45 @@ div.nav.custom {
 
 	}
 
+	.nav.custom {
+		padding: 0px;
+		width: 100%;
+		justify-content: center;
+		display: flex;
+	}
 
+	.nav {
+		padding: 0px;
+	}
+
+	.aprasymas {
+		margin-top: 5%;
+		justify-content: center;
+		display: flex;
+		text-align: left;
+		width: 80%;
+	}
+
+	.nav.product.gallery {
+		margin-left: 20px;
+			}
+
+
+	.pic_and_desc {
+		flex-direction: column-reverse;
+	}
+
+
+	.aprasymas {
+		margin-top: auto;
+		width: 100%;
+		justify-content: center;
+		display: flex;
+	}
+
+	.grafija {
+		padding: 0;
+	}
 }
 
 

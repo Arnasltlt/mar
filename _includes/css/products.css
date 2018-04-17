@@ -13,11 +13,7 @@ div.pic_and_desc {
 	margin-top: 80px;
 }
 
-.nav.product.gallery {
-	margin: auto;
-	width: 500px;
-	justify-content: flex-start;
-	padding: 0px;
+
 }
 
 
@@ -34,4 +30,46 @@ div.pic_and_desc {
 	margin-bottom: 40px;
 	text-align: center;
 }
+
+@media only screen and (min-width: 1020px) {
+
+	.nav.custom {
+		width: 100%;
+
+	}
+
+	.nav {
+		width: 25%;
+		padding: 0;
+		display: block;
+		margin-top: 5%;
+		margin-bottom:5%;
+
+	}
+	.prodpavadinimas {
+		margin-left: 50%;
+		justify-content: flex-start;
+	}
+
+	.aprasymas {
+	
+	}
+
+
+}
+
+@media (max-width:1020px) and (min-width:602px) {
+    
+	.aprasymas {
+		margin-top: auto;
+		width: 500px;
+		justify-content: center;
+		display: flex;
+	}
+
+	.pic_and_desc {
+		flex-direction: column-reverse;
+	}
+
+}​
 

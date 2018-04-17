@@ -6,13 +6,13 @@ li {
 .nav {
 	display: flex;
 	flex-flow: row wrap;
-	justify-content: center;
-	padding: 15px;
+	justify-content: flex-start;
+	padding: 20px;
 	text-align: center;
 }
 
 .inner_div {
-	margin:auto;
+	margin: auto;
 	width: 80%;
 }
 
@@ -44,7 +44,7 @@ h2 {
 	width: 150px;
 	height: auto;
 
-	padding: 15px 45px 5px 45px;
+/*	padding: 15px 45px 5px 45px;*/
 	object-fit: cover;
 }
 

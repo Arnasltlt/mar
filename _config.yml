@@ -1,3 +1,3 @@
 markdown: kramdown
-baseurl: index.html
+baseurl: /mar
 exclude: ['README.md']

@@ -13,8 +13,8 @@
 		 		 		{% if entry.baldas == {{include.content}} %}
 		          				<ul class="nav custom_baldai {{entry.baldas}} ">
 		          					<li class="item {{entry.kodas}}">
-									<a href="{{site.baseurl}}/products.html?{{entry.kodas}}"><img class="pro_img {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}" alt="{{entry.pavadinimas}} nuotrauka"></a><br>
-									<a href="{{site.baseurl}}/products.html?{{entry.kodas}}"><span class="pavadinimas">{{entry.pavadinimas}}</span> </a>
+									<a href="/products.html?{{entry.kodas}}"><img class="pro_img {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}" alt="{{entry.pavadinimas}} nuotrauka"></a><br>
+									<a href="/products.html?{{entry.kodas}}"><span class="pavadinimas">{{entry.pavadinimas}}</span> </a>
 									</li>
 		          				</ul>
 		          		{% endif %}		

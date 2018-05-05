@@ -111,6 +111,10 @@ img.sale.Neparduodama {
 	display: none;
 }
 
+.visas {
+	position: relative;
+}
+
 .sale {
 
 	width: 30px;

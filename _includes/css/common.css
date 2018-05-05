@@ -118,12 +118,13 @@ img.sale.Neparduodama {
 .vienas {
 	position: absolute;
 	right: 30%;
+	z-index: 1;
 }
 .sale {
 
 	width: 30px;
 	height: 30px;
-	z-index: 1;
+
 
 }
 

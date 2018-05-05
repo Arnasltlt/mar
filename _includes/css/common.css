@@ -131,6 +131,9 @@ img.sale.Neparduodama {
 .pro_img.Parduodama {
 	border-style: solid;
 	position: relative;
+	-webkit-box-shadow: 0px 4px 40px 9px rgba(0,0,0,0.36);
+	-moz-box-shadow: 0px 4px 40px 9px rgba(0,0,0,0.36);
+	box-shadow: 0px 4px 40px 9px rgba(0,0,0,0.36);
 }
 
 @media only screen and (min-width: 1100px) {

@@ -113,10 +113,11 @@ img.sale.Neparduodama {
 
 .visas {
 	position: relative;
-	right: 30%;
+
 }
 .vienas {
 	position: absolute;
+	right: 30%;
 }
 .sale {
 

@@ -3,7 +3,7 @@
 <div class="nav_buttons"> 
 	{% for item in site.data.meniu %}
 		<div class="element">	
-			<a href="/?{{item.kodas}}" class="button {{item.kodas}}">  {{item.name}} </a>
+			<a href="{{site.baseurl}}/?{{item.kodas}}" class="button {{item.kodas}}">  {{item.name}} </a>
 			<br>
 			<br>
 			<a href="/?{{item.kodas}}"><img src="{{item.picture[0].thumbnails.large.url}}" class="small_img hgallery"></a>

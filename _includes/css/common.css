@@ -121,7 +121,7 @@ img.sale.Neparduodama {
 
 	width: 30px;
 	height: 30px;
-	position: absolute;
+	z-index: 1;
 }
 
 .pro_img.Parduodama {

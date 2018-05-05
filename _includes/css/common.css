@@ -107,7 +107,7 @@ div.nav.custom {
 }
 
 
-.sale.Neparduodama {
+img.sale.Neparduodama {
 	display: none;
 }
 
@@ -118,7 +118,7 @@ div.nav.custom {
 	position: absolute;
 }
 
-.visas.Parduodama {
+div.visas.Parduodama {
 	border-style: solid;
 	position: relative;
 }

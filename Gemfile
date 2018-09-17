@@ -7,4 +7,5 @@ source 'https://rubygems.org'
    gem "json"
    gem 'bigdecimal'
    gem 'activesupport'
+   gem 'wdm'
  end

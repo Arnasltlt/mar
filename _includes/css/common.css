@@ -282,6 +282,17 @@ img.sale.Neparduodama {
 	.grafija {
 		padding: 0;
 	}
+
+	.visas {
+		display: flex;
+		border: solid 1px #CCC;
+    	-moz-box-shadow: 5px 5px 0px #999;
+    	-webkit-box-shadow: 5px 5px 0px #999;
+        box-shadow: 5px 5px 0px #999;
+        width: 100%;
+	}
+    
+	
 }
 
 

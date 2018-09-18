@@ -14,8 +14,11 @@ div.pic_and_desc {
 }
 
 
-}
+.headline_landing {
 
+	display: flex;
+	justify-content: center;
+}
 
 .aprasymas {
 	margin-left: 10px;

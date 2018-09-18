@@ -1,0 +1,49 @@
+	<div class="for_sale">
+
+	 		 		{% for entry in site.data.produktai %}
+	 		 			{% if entry.pardavimas == "Parduodama" %}
+	 		 				<div class="visas {{entry.kodas}}"> 
+		          				<ul class="nav salex {{entry.baldas}} ">
+		          					<li class="item {{entry.kodas}}">
+		          						
+		          						   <div class="vienas"> <img src="#" class="sale {{entry.parduodama}}"> </div>
+										<a href="{{entry.thumbnail[0].thumbnails.large.url}}" data-lightbox="{{entry.kodas}}" data-title="{{entry.pavadinimas}}"><img class="pro_img {{entry.parduodama}} {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}"alt="{{entry.pavadinimas}} nuotrauka"></a><br>
+										<a href="CART_URL">
+											<span class="pavadinimas">{{entry.pavadinimas}}</span> </a>
+										
+										{% for thing in entry.galerija %}
+								
+		                      				<a href="{{thing.url}}" class="grafija {{thing.baldas}}" data-lightbox="{{entry.kodas}}" data-title="{{entry.pavadinimas}}"></a>
+											
+		                				{% endfor %}
+										<br>
+										<br> <span> €270 </span> 
+										<br>
+										<div><a id="plugnpaid--gv5"></a></div>	
+										
+
+
+										
+									</li>
+		          				</ul>
+									
+		          		  	<div class="nav cription">
+		          		  		<ul class="nav customer_baldai aprasymas_sale {{entry.baldas}}">
+		          		  			<li>
+		          		  				<p> Recycled Oak doors, window frames and other scrap wood made into a one of a kind Desktop.
+		          		  				Recycled Oak doors, window frames and other scrap wood made into a one of a kind Desktop.
+		          		  				Recycled Oak doors, window frames and other scrap wood made into a one of a kind Desktop. </p>
+		          		  			</li>
+
+		          		  		</ul>
+		          		  				
+										
+		          		  	</div>
+		          		  	</div>
+
+		         		{% endif %}
+		         	{% endfor %}
+
+	          		
+	</div>
+<script src="https://plu.ug/-gv5"></script>

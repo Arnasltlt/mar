@@ -11,6 +11,67 @@ li {
 	text-align: center;
 }
 
+
+/*LANDING*/ 
+.dezute {
+	border-style: solid;
+	width: 50%;
+	display: flex;
+	margin: auto;
+	justify-content: space-around;
+
+}
+
+.nav.customer_baldai.aprasymas_sale {
+	width: 90%;
+
+}
+
+.nav.customer_baldai.aprasymas_sale:hover  {
+
+
+}
+
+
+.visas {
+	display: flex;
+	width: 50%;
+}
+
+.nav.cription {
+	margin-top: 10%;
+	width: 90%;
+	padding: 5px;
+
+}
+
+.nav.salex {
+	width: 50%;
+}
+
+
+.for_sale {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.btn {
+	color: green;
+}
+@media only screen and (max-width: 900px) {
+
+	.visas {
+		display: flex;
+		border: solid 1px #CCC;
+    	-moz-box-shadow: 5px 5px 0px #999;
+    	-webkit-box-shadow: 5px 5px 0px #999;
+        box-shadow: 5px 5px 0px #999;
+        width: 100%;
+	}
+    
+}
+
+/*LANDING ENDS*/
 .inner_div {
 	margin: auto;
 	width: 80%;

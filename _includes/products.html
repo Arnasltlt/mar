@@ -13,7 +13,7 @@
 		                
 		                  <ul class="nav product gallery">
 		                  {% for entry in item.galerija %}
-		                      <li><a href="{{entry.url}}" class="grafija {{entry.baldas}}" data-lightbox="{{item.kodas}}" data-title="{{item.pavadinimas}}"><img class="pro_img" src="{{entry.thumbnails.large.url}}"></a> </li>
+		                      <li class="nuotr_baldas"><a href="{{entry.url}}" class="grafija {{entry.baldas}}" data-lightbox="{{item.kodas}}" data-title="{{item.pavadinimas}}"><img class="pro_img" src="{{entry.thumbnails.large.url}}"></a> </li>
 		                  {% endfor %}
 		                  </ul>
 		        

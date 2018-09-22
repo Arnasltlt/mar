@@ -13,7 +13,7 @@ li {
 
 
 /*LANDING*/ 
-/*.dezute {
+.dezute {
 	border-style: solid;
 	width: 50%;
 	display: flex;
@@ -33,7 +33,7 @@ li {
 }
 
 
-.visas {
+.salevisas {
 	display: flex;
 	width: 50%;
 }
@@ -60,7 +60,7 @@ li {
 }
 @media only screen and (max-width: 900px) {
 
-	.visas {
+	.salevisas {
 		display: flex;
 		border: solid 1px #CCC;
     	-moz-box-shadow: 5px 5px 0px #999;
@@ -68,8 +68,11 @@ li {
         box-shadow: 5px 5px 0px #999;
         width: 100%;
 	}
-    
-}*/
+    li.nuotr_baldas {
+    	padding: 10px;
+    }
+
+}
 
 /*LANDING ENDS*/
 .inner_div {

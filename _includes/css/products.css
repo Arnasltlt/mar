@@ -19,13 +19,13 @@ div.pic_and_desc {
 	display: flex;
 	justify-content: center;
 }
-
+/*
 .aprasymas {
 	margin-left: 10px;
 	width: 500px;
 	height: 150px;
 	text-align: left;
-}
+}*/
 
 .prodpavadinimas {
 	display: flex;

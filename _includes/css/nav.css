@@ -44,11 +44,44 @@ li {
 	padding: 5px;
 
 }
+.nav.cription p {
+	text-align: left;
+}
 
 .nav.salex {
 	width: 50%;
 }
 
+.add {
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	bottom: 31%;
+	overflow: hidden;
+	margin-right: 3%;
+	right: 0px;
+	background-color: white;
+	padding: 5px;
+
+
+
+
+}
+.add p {
+	color: black;
+	font-size: 17px;
+	font-weight: 400;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#ad {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	color: black;
+	text-decoration: underline;
+}
 
 .for_sale {
 	display: flex;

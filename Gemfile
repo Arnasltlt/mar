@@ -8,4 +8,5 @@ source 'https://rubygems.org'
    gem 'bigdecimal'
    gem 'activesupport'
    gem 'wdm'
+   gem 'jekyll-seo-tag'
  end

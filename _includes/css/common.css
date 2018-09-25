@@ -9,6 +9,11 @@ body {
 
 }
 
+.linkas {
+	color: black;
+	text-decoration: underline;
+}
+
 .hgallery {
 	display: none;
 }

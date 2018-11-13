@@ -1,0 +1,13 @@
+current directory: C:/Users/arnel/Documents/GitHub/mar/vendor/bundle/gems/json-2.1.0/ext/json
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20181113-12824-1rkk8nh.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/arnel/Documents/GitHub/mar/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: C:/Users/arnel/Documents/GitHub/mar/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/arnel/Documents/GitHub/mar/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" install

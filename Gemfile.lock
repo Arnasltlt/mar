@@ -118,7 +118,6 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -133,7 +132,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-seo-tag
   json
-  wdm
+  listen
 
 BUNDLED WITH
-   1.16.4
+   1.17.1

@@ -42,7 +42,7 @@ body {
 
 }
 
-a.button2 {
+.button2 {
 /* display:inline-block;
  padding:0.5em 3em;
  border:0.16em solid #FFFFFF;
@@ -52,8 +52,9 @@ a.button2 {
  text-transform:uppercase;
  font-family:'Roboto',sans-serif;
  font-weight:400; */
- color:#FFFFFF;
- text-align:center;
+ color:pink;
+ /*
+text-align:center;
  transition: all 0.15s;*/
 }
 a.button2:hover{

@@ -1,5 +1,7 @@
-body {
+body, html {
 	font-family: Calibri, sans-serif;
+	width: 100%;
+	margin: 0;
 }
 
 .Logo {
@@ -88,6 +90,17 @@ div.nav.custom {
 	display: none;
 }
 /*Hide all products by default*/
+
+
+.big_picture {
+	width: 100%;
+	min-height: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-image: url("https://scontent.fkun1-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/48426581_353902425394552_5977080590254473216_n.jpg?_nc_cat=106&_nc_ht=scontent.fkun1-1.fna&oh=c50ed57f627538fe1947cdc29e825400&oe=5C90C345");
+}
+
 
 
 .Marius {

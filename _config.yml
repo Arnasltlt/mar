@@ -1,8 +1,6 @@
 markdown: kramdown
 # baseurl: /mar
-exclude: ['README.md']
+exclude: ['README.md','vendor','node_modules']
 permalink: pretty
 plugins:
   - jekyll-seo-tag
-
-exclude: [vendor]

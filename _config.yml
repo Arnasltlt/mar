@@ -1,6 +1,12 @@
 markdown: kramdown
 # baseurl: /mar
+<<<<<<< HEAD
 exclude: ['README.md','vendor']
+=======
+exclude: ['README.md']
+>>>>>>> parent of b9423cb2... coofnig
 permalink: pretty
 plugins:
   - jekyll-seo-tag
+
+exclude: [vendor]

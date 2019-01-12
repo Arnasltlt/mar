@@ -6,3 +6,5 @@
 {% include css/nav.css %}
 {% include css/info.css %}
 {% include css/products.css %} 
+{% include css/creative.css %}
+{% include css/creative.min.css %}

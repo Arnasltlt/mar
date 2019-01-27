@@ -1,0 +1,34 @@
+
+<div class="products full">
+	<div>
+	  {% for item in site.data.produktai_en %}
+	        <div class="{{item.kodas}} baldas">  	
+	          	<h2 class="prodpavadinimas"> {{ item.pavadinimas }} </h2>
+	          	<div class="pic_and_desc">
+	          			
+	             			
+		            <div> 			
+		                
+		                  <ul class="nav product gallery">
+		                  {% for entry in item.galerija %}
+		                      <li class="nuotr_baldas"><a href="{{entry.url}}" class="grafija {{entry.baldas}}" data-lightbox="{{item.kodas}}" data-title="{{item.pavadinimas}}"><img class="pro_img" src="{{entry.thumbnails.large.url}}"></a> </li>
+		                  {% endfor %}
+		                  </ul>
+		        
+		            </div>
+
+		   			<p class="aprasymas"> {{item.aprasymas}} </p>
+		   		</div>
+		   	</div>
+		                  
+		                  
+	  {% endfor %}
+	          	
+	       
+	</div>
+
+
+
+</div>
+
+

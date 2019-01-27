@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Mar-Furniture - Dizainerio baldai
-description: Vienetiniai baldai uzsakymui
+layout: en
+title: Mar-Furniture - Custom Furniture
+description: One of a kind Designer furniture
 image: /img/logo.jpg
 url: www.mar-furniture.lt
 logo: /img/logo.jpg
@@ -12,14 +12,14 @@ social:
     - https://www.instagram.com/marfurniture/
     - https://mariusvalaitis.tumblr.com/
 
-lang: lt_LT
+lang: en_GB
 identify: products
 ---
 
-{% include nav_buttons.html %}
+{% include en/nav_buttons.html %}
 
 
-{% include products.html %}
+{% include en/products.html %}
 
 
 
@@ -32,7 +32,7 @@ identify: products
       }
 
   
-  {% for item in site.data.produktai %}
+  {% for item in site.data.produktai_en %}
 
 
           else if (location.search == "?{{item.kodas}}") {

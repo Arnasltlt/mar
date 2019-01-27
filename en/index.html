@@ -1,0 +1,47 @@
+---
+layout: en
+title: Mar-Furniture - one of a kind furniture
+description: Vienetiniai, dizainerio baldai 
+image: /img/logo.jpg
+url: mar-furniture.lt/en
+logo: /img/logo.jpg
+
+lang: en_GB
+identify: home
+
+---
+
+{% include en/nav_buttons.html %}
+
+{% for item in site.data.meniu_en %}
+
+	{% include en/produktai.html content= item.kodas %}
+
+{% endfor %}
+
+
+<script type="text/javascript">
+	
+	if (location.search == ""){
+		window.location = "/en/?home";
+	}
+
+	  
+	  if (location.search == "?home") {
+          $('.hgallery').show();   
+      }
+
+  {% if site.data.meniu_en[0] %}
+  {% for item in site.data.meniu_en %}
+
+
+          else if (location.search == "?{{item.kodas}}") {
+              $('#{{item.kodas}}').css({display:"flex"});
+               
+            }
+  {% endfor %}
+  {% endif %}
+
+
+
+</script>

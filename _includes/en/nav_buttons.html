@@ -1,0 +1,14 @@
+
+
+<div class="nav_buttons"> 
+	{% for item in site.data.meniu_en %}
+		<div class="element">	
+			<a href="/en/?{{item.kodas}}" class="button {{item.kodas}}">  {{item.name}} </a>
+			<br>
+			<br>
+			<a href="/en/?{{item.kodas}}"><img src="{{item.picture[0].thumbnails.large.url}}" class="small_img hgallery"></a>
+		</div>
+			<p> {{item.picture.url[0]}} </p>
+		
+	{% endfor %}
+</div>

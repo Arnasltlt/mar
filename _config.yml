@@ -4,3 +4,18 @@ exclude: ['README.md','vendor']
 permalink: pretty
 plugins:
   - jekyll-seo-tag
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         author: "me"
+         layout: myLayout
+         lang: lt
+         base-url: "/"
+    -
+     scope:
+         path: en
+     values:
+         lang: en
+         base-url: "/en/"

@@ -27,7 +27,7 @@ identify: home
 	}
 
 	  
-	  if (location.search == "?home") {
+	if(window.location.href.indexOf("?home") > -1) {
           $('.hgallery').show();   
       }
 
@@ -35,7 +35,7 @@ identify: home
   {% for item in site.data.meniu_en %}
 
 
-          else if (location.search == "?{{item.kodas}}") {
+          else if(window.location.href.indexOf("?{{item.kodas}}") > -1) {
               $('#{{item.kodas}}').css({display:"flex"});
                
             }

@@ -34,8 +34,7 @@ identify: products
   
   {% for item in site.data.produktai_en %}
 
-
-          else if (location.search == "?{{item.kodas}}") {
+          else if(window.location.href.indexOf("?{{item.kodas}}") > -1){
               $('.{{item.kodas}}').show();
                
             }

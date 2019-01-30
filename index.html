@@ -32,20 +32,36 @@ identify: home
 	}
 
 	  
-	  if (location.search == "?home") {
+  if(window.location.href.indexOf("?home") > -1) {
           $('.hgallery').show();   
       }
 
-  {% if site.data.meniu[0] %}
-  {% for item in site.data.meniu %}
+  {% if site.data.meniu_en[0] %}
+  {% for item in site.data.meniu_en %}
 
 
-          else if (location.search == "?{{item.kodas}}") {
+          else if(window.location.href.indexOf("?{{item.kodas}}") > -1) {
               $('#{{item.kodas}}').css({display:"flex"});
                
             }
   {% endfor %}
   {% endif %}
+
+
+	 //  if (location.search == "?home") {
+  //         $('.hgallery').show();   
+  //     }
+
+  // {% if site.data.meniu[0] %}
+  // {% for item in site.data.meniu %}
+
+
+  //         else if (location.search == "?{{item.kodas}}") {
+  //             $('#{{item.kodas}}').css({display:"flex"});
+               
+  //           }
+  // {% endfor %}
+  // {% endif %}
 
 
 

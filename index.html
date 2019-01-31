@@ -36,8 +36,8 @@ identify: home
           $('.hgallery').show();   
       }
 
-  {% if site.data.meniu_en[0] %}
-  {% for item in site.data.meniu_en %}
+  {% if site.data.meniu[0] %}
+  {% for item in site.data.meniu %}
 
 
           else if(window.location.href.indexOf("?{{item.kodas}}") > -1) {

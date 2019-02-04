@@ -9,7 +9,7 @@ require 'active_support/all'
 # Pass in the app key and table name
 
 @table = @client.table("appcYcJWTWr6eedym", "Homepage_en")
-@records = @table.records
+@records = @table.records(:sort => ["Number", :asc])
 
 # Change the filename here below but make sure it's in the _data folder.
 File.open("_data/meniu_en.json", "w") do |f|

@@ -9,238 +9,568 @@
 
 <url>
   <loc>http://www.mar-furniture.lt/</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?home</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?home</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/info/</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/store</loc>
-  <lastmod>2018-09-27T21:31:09+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?lovos</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?spinteles</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?int_baldai</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?stalai</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.mar-furniture.lt/?kedes</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lova_padeklai</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?lovos202440467950</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lova_vienam</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?lovos21260524</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lova_azuolo</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?lovos1401280</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lov_langas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?lovos20251518164</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?indauja_langas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles1007338</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?pusine_spinta</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles202627135</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?virt_spint</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20284341</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?vitrinis_stalas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles090526875984</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?komoda_stiklo</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles1240029934</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?komoda_audio</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20292822</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?konsole_stalciu_1</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20272023</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lova_stalcius_1</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles195942270</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?komoda-azuolo</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles202642250</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spintele_darbas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles0943334472</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spint_kubas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles2027500</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_siena</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles13015472</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lentynos_stogo</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20282052</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_fanera</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20270877</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_slaitinio</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles20290215</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?toks_studija</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles1147592</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_senas_medis</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?spinteles1023310</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?projektas_kk360</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai20322225</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?virtuve_hpl</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai1747577971</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_kampas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai09125885</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?spinta_lentynos</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai2032228369</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?virtuve_trys</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai1748179</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?seno_raso_stalas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai1748500</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?konsole_stalciu</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai174018670</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?staciakampis_stalas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai2242589</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?valg_stalas_1</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai174922728</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?kavos_staliukas_zal</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai2032222338</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?triju_rasomas_stalas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai17473240</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?lova_stalcius</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?int_baldai17493645</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?valg_stalas_2</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai203717383</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?kavos_virtinis</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai2036017955</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?apvalus_stalas</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai2037568321</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?kede_senas_medis</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai1045106538</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?kede_pusbario</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai2034234</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mar-furniture.lt/products/?kede_porankiai</loc>
-  <lastmod>2018-09-27T21:31:15+00:00</lastmod>
+  <loc>http://www.mar-furniture.lt/products/?stalai2035020</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai203831127</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai1159412340</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai2036270</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai203917943</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai2039577216</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai200244433</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?stalai20320067</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?kedes17524171</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?kedes175215136</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/products/?kedes1751518</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?bed</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?cabinet</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?integrated_furniture</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?table</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/?chair</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?bed_2126058</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?bed_14012882000000000</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?bed_2024404</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?bed_202515133</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_2026420</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_202750249</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_09433324365</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_2029023</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_1147590</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_1023315</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_20272099228</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_2029283</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_195942464</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_1007332</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_20262714</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_20284358</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_0905267803</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_12400262</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_13015411</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_2028201</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?cabinet_2027082</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_22425815</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_17473253</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_17493654</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_17481782</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_174850702</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_17401896</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_20322239</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_17475733658</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_091258979</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_20322235</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_174922357</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?integrated_furniture_2032227916</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_2036276410</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_20024462</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_2032008598</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_104510926</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_203423792</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_2035023690</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_20383161</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_1159411</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_20371794</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_20360164</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_20375629020</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_203917432</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?table_2039574</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?chair_1752152</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?chair_1752418794</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.mar-furniture.lt/en/products/?chair_1751510</loc>
+  <lastmod>2019-02-05T08:07:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

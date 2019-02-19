@@ -4,6 +4,7 @@ exclude: ['README.md','vendor']
 permalink: pretty
 plugins:
   - jekyll-seo-tag
+author: Marius Valaitis
 defaults:
     -
      scope:
@@ -19,3 +20,6 @@ defaults:
      values:
          lang: en
          base-url: "/en/"
+
+theme: jekyll-theme-clean-blog
+future: true

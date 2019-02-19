@@ -9,4 +9,5 @@ source 'https://rubygems.org'
    gem 'activesupport'
    gem 'listen'
    gem 'jekyll-seo-tag'
+   gem "jekyll-theme-clean-blog"
  end

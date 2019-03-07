@@ -21,5 +21,5 @@ defaults:
          lang: en
          base-url: "/en/"
 
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
 future: true

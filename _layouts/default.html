@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<!-- OLD -->
+
 	<link rel="apple-touch-icon" sizes="57x57" href="/img/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png">
@@ -18,9 +25,9 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
-	<link rel="stylesheet" type="text/css" href='{{ "/css/default.css" | relative_url }}'>
+	<link rel="stylesheet" type="text/css" href="/css/default.css" >
 	<!-- TESTING:  >  
-		LIVE: href="/css/default.css"  -->
+		LIVE:  href='{{ "/css/default.css" | relative_url }}' -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="/lightbox-plus-jquery.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -50,7 +57,16 @@
 	
 		{{content}}
 
-
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 
 <!--Start Cookie Script--> 
 <script type="text/javascript" charset="UTF-8" src="http://chs03.cookie-script.com/s/c12840d2461e8ec06507dfeba9d2b1bc.js"></script> 

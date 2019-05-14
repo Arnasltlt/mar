@@ -100,7 +100,7 @@ footer {
 }
 
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1050px) {
 
 	.salevisas {
 		display: flex;
@@ -113,7 +113,9 @@ footer {
     li.nuotr_baldas {
     	padding: 10px;
     }
-
+    .kainos-kl {
+		display: none;
+	}
 }
 
 /*LANDING ENDS*/

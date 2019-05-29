@@ -1,0 +1,88 @@
+---
+layout: default
+
+
+---
+
+
+
+	<div class="inner_div">
+		<div class="jumbotron">
+		  <h1 class="display-4">Mar-Furniture | Antrinio dizaino baldai</h1>
+		  <p class="lead"> Mar-Furniture kūryba siekia suvieniti estetiką ir atsakingą vartojimą. Baldų gamyboje naudojama mediena iš senų baldų, langų, durų arba po gamybos atlikūsių medžiagų.</p>
+
+		  <hr class="my-4" style="border-color: black;">
+		  <p>Baldo dizainą įkvepia turima medžiaga, ji prideda istorijos ir charakterio. Dėl to, kiekvienas baldas yra vienetinis. </p>
+
+
+		  <p class="lead">
+				      <img class="jumb_img h-25" src="/img/gamyba/atliekos.jpg" alt="First slide">
+				   
+				      <img class="jumb_img h-25" src="/img/gamyba/lentos.jpeg" alt="Second slide">
+				   
+				      <img class="jumb_img h-25" src="/img/gamyba/procesas.jpg" alt="Third slide">
+
+				      <img class="jumb_img h-25" src="/img/gamyba/langas.jpeg" alt="Third slide">
+
+		 </p>
+
+
+
+		  <p class="lead">
+		    <a class="btn btn-dark" href="#baldai" role="button">Baldai</a>
+		  </p>
+		</div>
+
+
+				<div class=" d-flex flex-wrap" id="baldai">
+	 		 		
+	 		 		{% for entry in site.data.produktai %}
+		 		 		{% if entry.parduodama == "Taip" %}
+		          				<ul class="nav custom_baldai {{entry.baldas}} ">
+		          					<li class="item {{entry.kodas}}">
+		          						<div class="visas">
+		          						   <div class="vienas"> <img src="#" class="sale {{entry.parduodama}}"> </div>
+										<a href="/products/?{{entry.kodas}}"><img class="pro_img {{entry.parduodama}} {{entry.baldas}}" src="{{entry.thumbnail[0].thumbnails.large.url}}" alt="{{entry.pavadinimas}} nuotrauka"></a><br>
+										<a href="/products/?{{entry.kodas}}"><span class="pavadinimas">{{entry.pavadinimas}}</span> </a>
+										<span> {{entry.kaina}} €</span>
+										</div>
+									</li>
+		          				</ul>
+		          		{% endif %}		
+	          		{% endfor %}
+	          	</div>
+	          		
+	</div>
+
+
+
+
+      <section class="jumbotron" >
+          <div id="about jumbotron" class="mgb-40 padb-30 auto-invert line-b-4 align-center">
+     <!--    <h4 class="font-cond-l fg-accent lts-md mgb-10" contenteditable="false">Not Yet Convinced?</h4> -->
+        <h1 class="font-cond-b fg-text-d lts-md fs-300 fs-300-xs no-mg" contenteditable="false">Apie mane</h1>
+          </div>
+
+
+  <div class="container">
+  <div class="row">
+    <div class="col">
+      <img src="/img/my_pic.jpg" class="img-fluid" alt="Responsive image">
+    </div>
+    <div class="col">
+            <p>Mano vardas Marius Valaitis. Baigiau Kauno technologijos universitetą, medienos gaminių dizaino ir technologijos specialybę. Esu baldų dizaineris ir gamintojas. <br><br>
+
+            Labiausiai įkvepia žmogaus gebėjimas kurti. Nuostabus jausmas, kuomet eskizas tampa tikru daiktu. Mėgstu išgyventi visą proceso eigą nuo pradžios iki pabaigos. Eskizavimas, projektavimas, medžiagų parinkimas, gamyba, kulminacija – užbaigtas daikto realizavimas. Tikiu, kad kievienas kurtas daiktas turi dalelę kūrėjo, todėl į kūrybinį procesą sudedu save. <br><br>
+
+            Dažnai savo kurtuose gaminiuose naudoju seną medieną, medienos likučius ar plokščių atraižas, senus stiklus ar metalus. Man tai yra istorija medžiagoje, per laiką įsispaudęs individualumas.<br><br> 
+
+            Jeigu turite klausimų, norite sukurti kažką sau ar bendradarbiauti, susisiekim </p>
+
+        </div>
+  </div>
+          <br><br>
+          <div class="col-lg-8 mx-auto text-center">
+            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#contact">Susisiekim!</a>
+          </div>
+
+</section>

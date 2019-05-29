@@ -21,6 +21,10 @@ body, html {
 	box-sizing:border-box;
 }
 
+.jumb_img {
+	width: 16%;
+}
+
 .Logo {
 	display: flex;
 	justify-content: center;

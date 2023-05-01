@@ -1,18 +1,32 @@
 require 'json'
 require 'airtable'
 require 'active_support/all'
-# require 'active_support/all'
+require 'net/http'
+require 'uri'
 
-# Pass in api key to client
-@client = Airtable::Client.new("keylBaAiyLHi0fD6a")
+# Set your API token
+api_token = "pata073YBLZzHKMOU.1e0002896f1944d532a3e10e90c008a35d401ecbc56752986f2d7d229ed0d418"
 
-# Pass in the app key and table name
+# Set your base and table IDs
+base_id = "appcYcJWTWr6eedym"
+table_id = "Produktai"
 
-@table = @client.table("appcYcJWTWr6eedym", "Produktai")
-@records = @table.records
+# Prepare the request
+uri = URI.parse("https://api.airtable.com/v0/#{base_id}/#{table_id}")
+request = Net::HTTP::Get.new(uri)
+request["Authorization"] = "Bearer #{api_token}"
+request["Content-Type"] = "application/json"
 
-# Change the filename here below but make sure it's in the _data folder.
+# Send the request
+response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
+  http.request(request)
+end
+
+# Parse the response
+records = JSON.parse(response.body)["records"]
+
+# Save the records to a JSON file
 File.open("_data/produktai.json", "w") do |f|
-    data = @records.map { |record| record.attributes }
-    f.write(data.to_json)
+  data = records.map { |record| record["fields"] }
+  f.write(data.to_json)
 end

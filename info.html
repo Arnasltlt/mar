@@ -33,6 +33,51 @@ layout: default
 		</div>
 	</div>
 
+      <section class="{{item.kodas}} pb-0 mb-0 mt-5">
+               <div class="mgb-40 padb-30 auto-invert line-b-4 align-center pt-2" id="contactForm{{item.kodas}}">
+               <h2 class=" fg-text-d lts-md fs-300 fs-300-xs no-mg" contenteditable="false">Klausti kainos</h1>
+               <p class=" fg-accent lts-md mgb-10" contenteditable="false"> Baldai yra vienetiniai ir gaminami individualiai, todėl pagal poreikį juos galima koreguoti.</p>
+               </div>
+
+              </section>
+
+              <section class="d-flex justify-content-center pt-0" id="contactForm">
+
+                            <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
+                                <form class="shake" role="form" method="POST"  name="contact-form" data-toggle="validator" action="https://formspree.io/marius@mar-furniture.lt">
+                                    <input type="hidden" name="_next" value="http://www.mar-furniture.lt/thanks"/>
+                                   <!--  CC EMAILS -->
+                                    <input type="hidden" name="_cc" value="info@mar-furniture.lt,twtn8779@robot.zapier.com" />
+                                    <input type="hidden" name="_subject" value="Nauja užklausa dėl kainos products/?{{item.kodas}}" />
+
+                                   <!-- Baldo -->
+                             <!--        <div class="form-group label-floating">
+                                      <label class="control-label" for="name">Norimo baldo pavadinimas/URL </label>
+                                      <input class="form-control" id="name" type="text" name="name" required data-error="Please enter your name">
+                                      <div class="help-block with-errors"></div>
+                                    </div>  -->
+
+                                    <!-- Message -->
+                                    <div class="form-group label-floating">
+                                        <label for="message" class="control-label"> Jūsų žinutė </label>
+                                        <textarea class="form-control" rows="3" id="message" name="message" required data-error="Žinute rašykite čia" placeholder="Reikiamas dydis, norimos medžiagos, kiekis - kuo detaliau, tuo geriau."></textarea>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                  <!-- email -->
+                                    <div class="form-group label-floating">
+                                      <label class="control-label" for="email">Email</label>
+                                      <input class="form-control" id="email" type="email" name="_replyto" required data-error="Please enter your Email" required>
+                                      <div class="help-block with-errors"></div>
+                                    </div>
+                                    <!-- Form Submit -->
+                                    <div class="form-submit mt-5">
+                                        <button class="btn btn-dark" type="submit" id="form-submit" name="button" value="Send">
+                                          <i class="material-icons mdi mdi-message-outline text-white"></i> Klausti </button>
+                                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </form>
+              </section>
 
 </body>
 </html>

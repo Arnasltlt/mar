@@ -3,13 +3,16 @@ require 'airtable'
 require 'active_support/all'
 require 'net/http'
 require 'uri'
+require 'dotenv'
+
+Dotenv.load
 
 # Set your API token
-api_token = "pata073YBLZzHKMOU.1e0002896f1944d532a3e10e90c008a35d401ecbc56752986f2d7d229ed0d418"
+api_token = ENV['AIRTABLE_API_TOKEN']
 
 # Set your base and table IDs
-base_id = "appcYcJWTWr6eedym"
-table_id = "Produktai"
+base_id = ENV['BASE_ID']
+table_id = ENV['TABLE_ID']
 
 # Prepare the request
 uri = URI.parse("https://api.airtable.com/v0/#{base_id}/#{table_id}")

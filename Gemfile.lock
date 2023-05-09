@@ -17,6 +17,7 @@ GEM
     coffee-script-source (1.12.2)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    dotenv (2.8.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -136,6 +137,7 @@ DEPENDENCIES
   activesupport
   airtable
   bigdecimal
+  dotenv
   jekyll-assets
   jekyll-coffeescript
   jekyll-gist

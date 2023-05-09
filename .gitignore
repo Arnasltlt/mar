@@ -1,3 +1,4 @@
 _site
 grapesjs/
 vendor/bundle/ruby/.DS_Store
+.env

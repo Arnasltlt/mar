@@ -10,4 +10,5 @@ source 'https://rubygems.org'
    gem 'listen'
    gem 'jekyll-seo-tag'
    gem "jekyll-theme-clean-blog"
+   gem 'dotenv'
  end
